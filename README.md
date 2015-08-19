@@ -1,4 +1,4 @@
-![cover](cover.jpg)
+![cover](cover_small.jpg)
 
 # Optionlibredbudll
 
