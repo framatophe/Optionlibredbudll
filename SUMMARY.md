@@ -10,3 +10,4 @@
 * [Introduction Part2](IntroPart2.md)
 * [Part2 chap1](part2_chap1.md)
 * [Part2 chap2](part2_chap2.md)
+* [Part2 chap3](part2_chap3.md)
