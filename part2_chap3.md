@@ -103,7 +103,7 @@ C'est donc une solution qui, utilisée à bon escient par les auteurs, peut perm
 
 Pour finir, ce mécanisme n'est pérenne dans son application sur un projet qu'autant que l'ensemble des contributions se fasse _a minima_ sous licence multiple (quitte à ce que celles qui ne le seraient pas soient réécrites), ou licence permettant ces licences multiples (par exemple des licences du type MIT ou BSD).
 
-![Différentes techniques appliquées à une même licence](images/tableau_technique_licence.png)
+![Différentes techniques appliquées à une même licence](images/tableau_technique_licenceversionWEB.png)
 
 
 
