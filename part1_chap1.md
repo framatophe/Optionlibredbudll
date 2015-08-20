@@ -2,7 +2,7 @@
 
                     
 
-Les enjeux devenant de plus en plus économiques —&nbsp;les études récentes attribuent à l'industrie du seul droit d'auteur une part du PIB allant de 5 à 10&nbsp;%, selon le pays et l'époque[^partunchapun1]&nbsp;—, le droit d'auteur actuel n'est plus le droit d'auteur «&nbsp;de la grande loi de 1957&nbsp;», mais un droit qui a intégré les changements de notre société en même temps qu'il a subi les effets des accords communautaires et internationaux.
+Les enjeux devenant de plus en plus économiques &ndash;&nbsp;les études récentes attribuent à l'industrie du seul droit d'auteur une part du PIB allant de 5 à 10&nbsp;%, selon le pays et l'époque[^partunchapun1]&nbsp;&ndash;, le droit d'auteur actuel n'est plus le droit d'auteur «&nbsp;de la grande loi de 1957&nbsp;», mais un droit qui a intégré les changements de notre société en même temps qu'il a subi les effets des accords communautaires et internationaux.
 
 Dans ce chapitre, nous étudierons successivement les droits exclusifs relatifs aux œuvres (1.1), aux créations auxiliaires (1.2), aux mesures techniques (1.3) et aux bases de données (1.4).
 
@@ -13,7 +13,7 @@ Dans ce chapitre, nous étudierons successivement les droits exclusifs relatifs 
 
 ## L'œuvre relevant du droit d'auteur
 
-Jusqu'à la Renaissance, les auteurs n'étaient envisagés qu'en tant que maillons d'une chaîne de créateurs et ils s'accommodaient d'autant plus facilement de l'anonymat que la faiblesse des moyens de diffusion de leurs créations les attachait à un public très limité. L'invention de l'imprimerie modifia profondément la donne pour les écrivains[^partunchapun2]&nbsp;: il devenait possible de se faire connaître et de diffuser auprès d'un public beaucoup plus large. Le métier d'imprimeur devint une industrie florissante qui dut très rapidement faire face au développement de la contrefaçon —&nbsp;nouveau marché motivé par les enjeux financiers du premier. Cette industrie mobilisa ainsi l'attention du pouvoir royal sur l'importance de la reconnaissance d'un monopole d'exploitation qui leur permettrait de se prémunir contre cette «&nbsp;concurrence déloyale&nbsp;» (elle supportait en effet seule certains coûts préalables à l'impression des ouvrages)&nbsp;: ce fut la consécration des privilèges consentis aux imprimeurs (libraires) pour compenser leurs investissements[^partunchapun3]. Dès lors, l'auteur n'était qu'indirectement bénéficiaire de cette protection, grâce à la rémunération qu'il tirait de l'édition de sa création, et n'avait pas de «&nbsp;prérogatives&nbsp;» en tant que telles[^partunchapun4].
+Jusqu'à la Renaissance, les auteurs n'étaient envisagés qu'en tant que maillons d'une chaîne de créateurs et ils s'accommodaient d'autant plus facilement de l'anonymat que la faiblesse des moyens de diffusion de leurs créations les attachait à un public très limité. L'invention de l'imprimerie modifia profondément la donne pour les écrivains[^partunchapun2]&nbsp;: il devenait possible de se faire connaître et de diffuser auprès d'un public beaucoup plus large. Le métier d'imprimeur devint une industrie florissante qui dut très rapidement faire face au développement de la contrefaçon &ndash;&nbsp;nouveau marché motivé par les enjeux financiers du premier. Cette industrie mobilisa ainsi l'attention du pouvoir royal sur l'importance de la reconnaissance d'un monopole d'exploitation qui leur permettrait de se prémunir contre cette «&nbsp;concurrence déloyale&nbsp;» (elle supportait en effet seule certains coûts préalables à l'impression des ouvrages)&nbsp;: ce fut la consécration des privilèges consentis aux imprimeurs (libraires) pour compenser leurs investissements[^partunchapun3]. Dès lors, l'auteur n'était qu'indirectement bénéficiaire de cette protection, grâce à la rémunération qu'il tirait de l'édition de sa création, et n'avait pas de «&nbsp;prérogatives&nbsp;» en tant que telles[^partunchapun4].
 
 <!-- NOTES -->
 
@@ -55,7 +55,7 @@ L'objet du droit d'auteur est l'_œuvre_, celle-ci étant entendue comme une _cr
 
 #### La création par l'expression
 
-Les idées sont de libre parcours et peuvent être utilisées par tous. Cela ne concerne néanmoins que les idées&nbsp;: la façon dont celles-ci sont exprimées —&nbsp;leur expression&nbsp;— est personnelle, voire originale. Par conséquent, les droits d'auteur naissent dès la conception de l'œuvre, même inachevée, sans aucune formalité[^partunchapun9] au fur et à mesure que l'œuvre est _exprimée_.
+Les idées sont de libre parcours et peuvent être utilisées par tous. Cela ne concerne néanmoins que les idées&nbsp;: la façon dont celles-ci sont exprimées &ndash;&nbsp;leur expression&nbsp;&ndash; est personnelle, voire originale. Par conséquent, les droits d'auteur naissent dès la conception de l'œuvre, même inachevée, sans aucune formalité[^partunchapun9] au fur et à mesure que l'œuvre est _exprimée_.
 
 <!-- NOTES -->
 
@@ -63,7 +63,7 @@ Les idées sont de libre parcours et peuvent être utilisées par tous. Cela ne 
 
 <!-- /NOTES -->
 
-Ainsi, l'auteur ne s'approprie pas les idées —&nbsp;qui sont des biens collectifs&nbsp;—, mais il apporte sa propre contribution à la communauté en partageant son expression personnelle desdites idées. C'est sur cet apport personnel que l'auteur pourra revendiquer des droits, à la condition de la divulgation de son œuvre —&nbsp;la divulgation représentant la volonté de rendre publique son œuvre, c'est elle qui donnera naissance aux prérogatives patrimoniales de l'auteur (à noter qu'avant divulgation de l'œuvre, celle-ci n'est pas encore «&nbsp;dans le commerce&nbsp;» et sa protection est assurée par le droit moral).
+Ainsi, l'auteur ne s'approprie pas les idées &ndash;&nbsp;qui sont des biens collectifs&nbsp;&ndash;, mais il apporte sa propre contribution à la communauté en partageant son expression personnelle desdites idées. C'est sur cet apport personnel que l'auteur pourra revendiquer des droits, à la condition de la divulgation de son œuvre &ndash;&nbsp;la divulgation représentant la volonté de rendre publique son œuvre, c'est elle qui donnera naissance aux prérogatives patrimoniales de l'auteur (à noter qu'avant divulgation de l'œuvre, celle-ci n'est pas encore «&nbsp;dans le commerce&nbsp;» et sa protection est assurée par le droit moral).
 
 -------------------
 
@@ -73,7 +73,7 @@ Par principe, il n'est pas nécessaire de déposer son œuvre pour bénéficier 
 
 En revanche, un tel dépôt facilitera la preuve de la création (et de son antériorité) si quelqu'un met en doute cette paternité. Cela d'autant plus que la preuve est libre&nbsp;: tout moyen pouvant être accueilli et apprécié par le juge. Il est par exemple tout à fait possible de s'envoyer un colis scellé en recommandé avec accusé de réception (le cachet de la poste attestant d'une date donnée) ou de s'adjoindre les services d'un tiers de confiance (de la qualité du tiers dépend celle du dépôt&nbsp;: il peut être utile d'utiliser le mécanisme des enveloppes Soleau auprès de l'Institut National de la Propriété Industrielle (INPI) ou des dispositifs de dépôt comme l'Agence pour la Protection des Programmes (APP) dans le domaine informatique).
 
-Enfin, de nombreux pays —&nbsp;dont la France&nbsp;— conditionnent à un _dépôt légal_ préalable à la publication de certains ouvrages, périodiques, etc. En France, ce 
+Enfin, de nombreux pays &ndash;&nbsp;dont la France&nbsp;&ndash; conditionnent à un _dépôt légal_ préalable à la publication de certains ouvrages, périodiques, etc. En France, ce 
 dépôt légal concerne les écrits (livres et périodiques) et d'autres types d'œuvres (gravures, films, enregistrements sonores, émissions de radio et de télévision, logiciels, etc.).
 
 À ce sujet, on peut se reporter à l'article détaillé de Wikipedia&nbsp;: «&nbsp;Dépôt légal en France&nbsp;». Voir aussi <span style="font-variant:small-caps;">Larivière</span> (Jules),  «&nbsp;Principes directeurs pour l'élaboration d'une législation sur le dépôt légal&nbsp;»,   _Organisation des Nations Unies pour l'éducation, la science et la culture_, 2000.
@@ -145,7 +145,7 @@ La notion d'œuvres orphelines couvre les œuvres abandonnées, perdues ou déla
 
 Il existe plusieurs cas de figure&nbsp;:
 
-   1. l'auteur n'a jamais divulgué son œuvre (elle n'est alors pas dissociable de l'auteur et n'est pas «&nbsp;dans le commerce&nbsp;»)&nbsp;: on parle d'œuvres inédites —&nbsp;ou non publiées (ainsi que les œuvres pour lesquelles l'auteur aurait usé de son «&nbsp;droit à l'oubli&nbsp;»)&nbsp;;
+   1. l'auteur n'a jamais divulgué son œuvre (elle n'est alors pas dissociable de l'auteur et n'est pas «&nbsp;dans le commerce&nbsp;»)&nbsp;: on parle d'œuvres inédites &ndash;&nbsp;ou non publiées (ainsi que les œuvres pour lesquelles l'auteur aurait usé de son «&nbsp;droit à l'oubli&nbsp;»)&nbsp;;
    2. l'auteur a publié son œuvre sans pour autant consentir de quelconque licence ou autorisation&nbsp;;
    3. l'auteur a autorisé à priori un certain nombre d'usages sur son œuvre, mais ceux-ci ne sont plus adaptés à l'évolution de la technique (par exemple pour une diffusion sur Internet) et il n'est plus possible d'obtenir son accord pour étendre la première cession.
 
@@ -154,7 +154,7 @@ Face à ces œuvres orphelines, plusieurs comportements diamétralement opposés
    1. en l'absence d'autorisation expresse de l'auteur, l'œuvre reste inexploitée&nbsp;;
    2. l'auteur n'étant pas connu, on exploite l'œuvre sans autorisation, à charge de ce dernier de réclamer à postériori une licence d'exploitation (générateur d'insécurité juridique). C'est ici le comportement de Google.
 
-L'accroissement du nombre d'œuvres orphelines  est le pendant à l'extension des droits de propriété intellectuelle (en durée comme objet) et de multiples travaux s'attachent aujourd'hui à lui trouver des solutions législatives. Le Canada a déjà légiféré, tandis que d'autres —&nbsp;à l'instar de la France, de l'Angleterre, ou plus largement de l'Europe et des États-Unis&nbsp;— réfléchissent aux mesures qui permettraient de réintégrer ces œuvres dans le commerce. Une commission spécialisée du CSPLA, intitulée «&nbsp;Exploitation des œuvres orphelines et des éditions épuisées&nbsp;», s'est réunie d'octobre
+L'accroissement du nombre d'œuvres orphelines  est le pendant à l'extension des droits de propriété intellectuelle (en durée comme objet) et de multiples travaux s'attachent aujourd'hui à lui trouver des solutions législatives. Le Canada a déjà légiféré, tandis que d'autres &ndash;&nbsp;à l'instar de la France, de l'Angleterre, ou plus largement de l'Europe et des États-Unis&nbsp;&ndash; réfléchissent aux mesures qui permettraient de réintégrer ces œuvres dans le commerce. Une commission spécialisée du CSPLA, intitulée «&nbsp;Exploitation des œuvres orphelines et des éditions épuisées&nbsp;», s'est réunie d'octobre
  2007 à avril 2008 afin de réaliser un travail préliminaire à de 
 potentielles réformes législatives. Le rapport de la commission a été 
 publié le 19 mars 2008, comprenant notamment [une annexe](http://bat8.inria.fr/&nbsp;lang/orphan/oeuvres-orphelines-BLang.pdf) rédigée par 
@@ -177,7 +177,7 @@ L'auteur dispose de multiples prérogatives _extrapatrimoniales_ regroupées sou
 
 Ces droits sont _inaliénables_ (il n'est pas possible d'y renoncer ou de les céder), _perpétuels_ et _imprescriptibles_ (on ne les perd pas par le non-usage). Ils sont transmis aux héritiers de l'auteur ou par testament.
 
-Par ailleurs, durant les 70 ans qui suivent le premier janvier qui suit la mort de l'auteur[^partunchapun17], le titulaire de droit est le seul à pouvoir «&nbsp;exploiter&nbsp;» l'œuvre —&nbsp; sur la base de prérogatives dites _patrimoniales_ qui s'étendent à toute communication directe ou indirecte (Art. L122-2 CPI et Art. L122-3 CPI) de l'œuvre au public&nbsp;:
+Par ailleurs, durant les 70 ans qui suivent le premier janvier qui suit la mort de l'auteur[^partunchapun17], le titulaire de droit est le seul à pouvoir «&nbsp;exploiter&nbsp;» l'œuvre &ndash;&nbsp; sur la base de prérogatives dites _patrimoniales_ qui s'étendent à toute communication directe ou indirecte (Art. L122-2 CPI et Art. L122-3 CPI) de l'œuvre au public&nbsp;:
 
    - le droit de _reproduction_ concerne la fixation matérielle de l'œuvre sur un support par tous les procédés qui permettent de la communiquer au public de manière indirecte (impression, enregistrement, copie, etc.)&nbsp;;
    - le droit de _représentation_ concerne la communication directe de l'œuvre au public par un procédé quelconque (récitation ou exécution publique, représentation dramatique, télédiffusion, etc.)&nbsp;;
@@ -255,7 +255,7 @@ Les libertés du public sont assurées par un mécanisme d'exceptions, un princi
 
 ###### Les exceptions au monopole du droit d'auteur
 
-Quelques exceptions (Art. L122-5 CPI) permettent de considérer des usages comme étant en dehors du monopole de l'auteur —&nbsp;à la condition néanmoins qu'ils ne portent pas atteinte à l'exploitation normale de l'œuvre ni ne causent un préjudice injustifié aux intérêts légitimes de l'auteur[^partunchapun24].
+Quelques exceptions (Art. L122-5 CPI) permettent de considérer des usages comme étant en dehors du monopole de l'auteur &ndash;&nbsp;à la condition néanmoins qu'ils ne portent pas atteinte à l'exploitation normale de l'œuvre ni ne causent un préjudice injustifié aux intérêts légitimes de l'auteur[^partunchapun24].
 
 <!-- NOTES -->
 
@@ -267,7 +267,7 @@ Ces premiers usages concernent les actes réalisés dans la sphère privée des 
 
 Les autres exceptions sont en dehors de la sphère privée&nbsp;: les analyses et courtes citations (dans un certain cadre), les revues de presse (usage réservé à la presse), la reprise des discours publics ou officiels, les catalogues des ventes judiciaires, l'exception pédagogique (moyennant une compensation financière) dès lors que sont «&nbsp;indiqués clairement le nom de l'auteur et la source&nbsp;»&nbsp;; la parodie et la caricature dans le respect des lois du genre (ce qui inclut notamment l'indication de l'origine, de la paternité, etc.).
 
-Diverses exceptions générales complémentaires traduisent la confrontation entre la recherche d'une protection de l'auteur et d'autres contraintes légales (pour la conservation des documents par les bibliothèques ouvertes au public; pour la recherche et l'information; pour les établissements culturels; et au bénéfice des personnes handicapées) ou techniques (l'accès au contenu d'une base de données électronique, la reproduction provisoire présentant un caractère transitoire ou accessoire). Enfin, la loi Droit d'auteur et droits voisins dans la société de l'information (DADVSI, 2006) introduisit une _exception pédagogique_  —&nbsp;néanmoins très limitée et en pratique peu (voire pas) utilisée (cela en dépit des sommes versées aux sociétés d'auteur conformément aux accords sectoriels conclus depuis 2006).
+Diverses exceptions générales complémentaires traduisent la confrontation entre la recherche d'une protection de l'auteur et d'autres contraintes légales (pour la conservation des documents par les bibliothèques ouvertes au public; pour la recherche et l'information; pour les établissements culturels; et au bénéfice des personnes handicapées) ou techniques (l'accès au contenu d'une base de données électronique, la reproduction provisoire présentant un caractère transitoire ou accessoire). Enfin, la loi Droit d'auteur et droits voisins dans la société de l'information (DADVSI, 2006) introduisit une _exception pédagogique_  &ndash;&nbsp;néanmoins très limitée et en pratique peu (voire pas) utilisée (cela en dépit des sommes versées aux sociétés d'auteur conformément aux accords sectoriels conclus depuis 2006).
 
 Il y a quelques années, un débat divisait ceux qui considéraient que cette liste d'exceptions constituait des droits au profit des utilisateurs et ceux qui n'y voyaient que des exceptions au monopole de l'auteur&nbsp;: un enjeu d'autant plus important que des exceptions ne sont utiles qu'en matière de défense alors que des droits pourraient être opposés aux auteurs. L'arrêt «&nbsp;Mulholland Drive&nbsp;» est venu clarifier la situation en qualifiant expressément les composantes de cette liste comme étant des «&nbsp;exceptions au droit d'auteur&nbsp;»[^partunchapun25]&nbsp;: elles ne permettent donc que de se défendre contre toute accusation de contrefaçon, mais ne servent pas de supports à la revendication de nouveaux droits.
 
@@ -294,7 +294,7 @@ __La rémunération pour copie privée__
 
 Il s'agit d'une redevance pour copie privée qui touche tous les supports de stockage (CD et DVD enregistrables, disques durs, mémoires flash, etc.). Une commission a pour charge de la faire évoluer selon les pratiques, de sorte à compenser la reproduction effectuée au titre de copie privée par les utilisateurs. Néanmoins, par une décision du 20 septembre 2010, la Commission copie privée indique que dorénavant «&nbsp;tous les supports de stockage externes utilisables directement avec un ordinateur&nbsp;» seront soumis à rémunération… 
 
-Les bénéficiaires sont les auteurs, les artistes-interprètes et les producteurs de phonogrammes et vidéogrammes —&nbsp;uniquement pour les phonogrammes et vidéogrammes fixés pour la première fois dans un État membre de l'Union européenne. Cette redevance varie selon le type de support (et de la durée d'enregistrement qu'il permet) et est payée par le fabricant, l'importateur ou la personne qui réalise des acquisitions intracommunautaires (les entreprises qui usent de ces supports pour leur propre besoin peuvent demander le remboursement de cette redevance.). Elle est gérée par les sociétés de gestion collective et est ensuite répartie différemment selon s'il s'agit d'un _phonogramme_ (½&nbsp;aux auteurs, ¼&nbsp;aux artistes-interprètes, ¼&nbsp;aux producteurs), d'un _vidéogramme_ (⅓&nbsp;aux auteurs, ⅓&nbsp;aux artistes-interprètes, ⅓&nbsp;aux producteurs), ou d'une œuvre _écrite_ (½&nbsp;aux auteurs&nbsp;; ½&nbsp;aux éditeurs).
+Les bénéficiaires sont les auteurs, les artistes-interprètes et les producteurs de phonogrammes et vidéogrammes &ndash;&nbsp;uniquement pour les phonogrammes et vidéogrammes fixés pour la première fois dans un État membre de l'Union européenne. Cette redevance varie selon le type de support (et de la durée d'enregistrement qu'il permet) et est payée par le fabricant, l'importateur ou la personne qui réalise des acquisitions intracommunautaires (les entreprises qui usent de ces supports pour leur propre besoin peuvent demander le remboursement de cette redevance.). Elle est gérée par les sociétés de gestion collective et est ensuite répartie différemment selon s'il s'agit d'un _phonogramme_ (½&nbsp;aux auteurs, ¼&nbsp;aux artistes-interprètes, ¼&nbsp;aux producteurs), d'un _vidéogramme_ (⅓&nbsp;aux auteurs, ⅓&nbsp;aux artistes-interprètes, ⅓&nbsp;aux producteurs), ou d'une œuvre _écrite_ (½&nbsp;aux auteurs&nbsp;; ½&nbsp;aux éditeurs).
 
 -------------------------------------
 
@@ -303,7 +303,7 @@ Les bénéficiaires sont les auteurs, les artistes-interprètes et les producteu
 Les titulaires de droits sont aussi tributaires de licences légales (gestion collective obligatoire[^partunchapun26] de leur droit), généralement justifiées par des raisons pratiques (faciliter l'accès aux œuvres ou pallier la difficulté de contrôler l'usage qui en est fait). Elles font figure d'exceptions au principe et transforment, dans certaines hypothèses précises, le monopole de l'auteur en un simple «&nbsp;droit à rémunération&nbsp;» sans qu'il ne puisse faire valoir son monopole[^partunchapun27]. On connaît ainsi en France&nbsp;:
 
    - _La licence légale relative au prêt en bibliothèque_[^partunchapun28] dispose que l'auteur d'un livre (ou d'une œuvre contenue dans celui-ci) ne peut interdire que son œuvre soit prêtée par une bibliothèque accueillant du public, en contrepartie d'un droit à rémunération supplémentaire. La gestion collective est assurée par la [Sofia](http://www.la-sofia.org).
-   - _La licence légale en matière de reprographie_ induit que «&nbsp;la publication d'une œuvre emporte cession du droit de reproduction par reprographie à une société&nbsp;» de gestion collective agréée (telle que le Centre français pour l'exploitation du droit de copie —&nbsp;[CFC](http://www.cfcopies.com)&nbsp;— à l'exception des «&nbsp;copies aux fins de vente, de location, de publicité ou de promotion.&nbsp;»
+   - _La licence légale en matière de reprographie_ induit que «&nbsp;la publication d'une œuvre emporte cession du droit de reproduction par reprographie à une société&nbsp;» de gestion collective agréée (telle que le Centre français pour l'exploitation du droit de copie &ndash;&nbsp;[CFC](http://www.cfcopies.com)&nbsp;&ndash; à l'exception des «&nbsp;copies aux fins de vente, de location, de publicité ou de promotion.&nbsp;»
    - _La licence légale en matière de retransmission par câble_, induit que la retransmission par câble simultanée, intégrale et sans changement sur le territoire national d'une œuvre télédiffusée à partir d'un État membre de la Communauté européenne ne peut être exercée que par une société de perception et de répartition des droits (Art. L132-20-1, I et Art. L217-2, I CPI).
 
 
@@ -325,7 +325,7 @@ __Société de gestion collective ou Société de perception et de redistributio
 Les sociétés de gestion collective sont avant tout des sociétés civiles (de droit privé)
  soumises à un contrôle (souple) par le gouvernement&nbsp;: la procédure de création des SPRD passant par une transmission des statuts au ministre chargé de la culture.
 
-La loi leur confère notamment la mission de négocier des _contrats généraux d'intérêt commun_, pour améliorer la diffusion des phonogrammes ou vidéogrammes ou de «&nbsp;promouvoir le progrès technique ou économique&nbsp;». Une partie des fonds non redistribués par les SPRD (dits les irrépartissables —&nbsp;par exemple lorsque des sommes perçues ne sont pas reversées en l'absence de convention de réciprocité avec le pays de l'ayant droits) doit être investie pour aider les artistes et la diversité culturelle. Elles gèrent notamment la redevance pour copie 
+La loi leur confère notamment la mission de négocier des _contrats généraux d'intérêt commun_, pour améliorer la diffusion des phonogrammes ou vidéogrammes ou de «&nbsp;promouvoir le progrès technique ou économique&nbsp;». Une partie des fonds non redistribués par les SPRD (dits les irrépartissables &ndash;&nbsp;par exemple lorsque des sommes perçues ne sont pas reversées en l'absence de convention de réciprocité avec le pays de l'ayant droits) doit être investie pour aider les artistes et la diversité culturelle. Elles gèrent notamment la redevance pour copie 
 privée et quelques licences légales.
 
 Elles gèrent tout type de droit de propriété intellectuelle et sont généralement sectorisées (l'une pour les auteurs, l'autre pour les droits voisins des artistes-interprètes, etc.). Elles sont soumises à une obligation de transparence et doivent tenir à la disposition des utilisateurs éventuels le répertoire complet des auteurs et compositeurs français et étrangers qu'elles représentent (Art. L321-3 et Art. L321-7 CPI). 
@@ -344,14 +344,14 @@ L'épuisement est une notion attachée au bien physique, la «&nbsp;marchandise&
 
 Le domaine public regroupe toutes les œuvres qui ne sont plus couvertes par un monopole&nbsp;: que celui-ci soit éteint, ou qu'il n'existe pas en raison du statut de l'œuvre.
 
-   - Les œuvres pour lesquelles le délai de protection s'est écoulé —&nbsp;on dit qu'elles sont tombées, élevées ou (r)entrées dans le domaine public&nbsp;— peuvent être utilisées sans qu'une autorisation soit nécessaire (sous réserve du respect des droits moraux)&nbsp;;
+   - Les œuvres pour lesquelles le délai de protection s'est écoulé &ndash;&nbsp;on dit qu'elles sont tombées, élevées ou (r)entrées dans le domaine public&nbsp;&ndash; peuvent être utilisées sans qu'une autorisation soit nécessaire (sous réserve du respect des droits moraux)&nbsp;;
    - Les œuvres tombées dans le domaine public dans un pays étranger dès lors que les œuvres ont été initialement divulguées (première communication au public) dans celui-ci&nbsp;;
    - Pour répondre au principe selon lequel «&nbsp;nul n'est censé s'approprier la loi&nbsp;», certaines œuvres ne sont pas soumises à de quelconques droits exclusifs[@Vivantetbrug2009]&nbsp;: lois, discours, jurisprudence, etc.
    - Certaines créations liées à la culture d'une société, généralement regroupées sous le terme de _folklore_ ne sont généralement pas appropriables[^partunchapun29] (bien que certains considèrent au contraire qu'une telle appropriation devrait être possible au bénéfice seulement des peuples autochtones[^partunchapun30]).
 
 <!-- NOTES -->
 
-[^partunchapun29a]: Ceci afin de ne pas limiter le libre échange organisé entre les membres de la Communauté européenne. L'épuisement est généralement national, à l'exception de certains pays —&nbsp;comme le Japon&nbsp;— qui sont suffisamment compétitifs pour préférer un épuisement international.
+[^partunchapun29a]: Ceci afin de ne pas limiter le libre échange organisé entre les membres de la Communauté européenne. L'épuisement est généralement national, à l'exception de certains pays &ndash;&nbsp;comme le Japon&nbsp;&ndash; qui sont suffisamment compétitifs pour préférer un épuisement international.
 
 [^partunchapun29]: Ainsi, une série de dispositifs ont été mis en place avec pour ambition d'empêcher que des brevets ou autres droits exclusifs soient octroyés à des personnes autres que les peuples ou communautés autochtones qui sont à l'origine des savoirs traditionnels et en ont à juste titre le contrôle&nbsp;; ou que ces savoirs traditionnels puissent être utilisés sans l'autorisation des peuples ou communautés autochtones qui sont à l'origine de ces savoirs et en ont à juste titre le contrôle, et sans un partage approprié des avantages qui en découlent. Voir notamment la note publiée par l'OMC&nbsp;: _La protection des savoirs traditionnels et du folklore. Résumé des questions qui ont été soulevées et des vues qui ont été formulées_, IP/C/W/370/Rev.1, note du secrétariat, 9 mars 2006.
 
@@ -450,7 +450,7 @@ La particularité de la situation des œuvres audiovisuelles (Art. L113-7 CPI) e
 
 ## Les créations auxiliaires soumises aux droits voisins
 
-Apparus à l'occasion de la loi Lang de 1985 et confectionnés sur le calque du droit d'auteur, les droits voisins englobent tous les auxiliaires de la création qui participent à la communication de l'œuvre au public. Divers et variés, ils recouvrent des acteurs bien distincts&nbsp;: les artistes-interprètes d'un côté et les industries culturelles de l'autre (producteurs de phonogrammes ou vidéogrammes et entreprises de communication audiovisuelle) —&nbsp;à noter que les éditeurs n'en font pas partie, mais ils sont fréquemment ayants droit des auteurs qu'ils éditent et peuvent bénéficier de la protection au titre des droits d'auteur lorsqu'ils font eux-mêmes preuve d'originalité.
+Apparus à l'occasion de la loi Lang de 1985 et confectionnés sur le calque du droit d'auteur, les droits voisins englobent tous les auxiliaires de la création qui participent à la communication de l'œuvre au public. Divers et variés, ils recouvrent des acteurs bien distincts&nbsp;: les artistes-interprètes d'un côté et les industries culturelles de l'autre (producteurs de phonogrammes ou vidéogrammes et entreprises de communication audiovisuelle) &ndash;&nbsp;à noter que les éditeurs n'en font pas partie, mais ils sont fréquemment ayants droit des auteurs qu'ils éditent et peuvent bénéficier de la protection au titre des droits d'auteur lorsqu'ils font eux-mêmes preuve d'originalité.
 
 Il s'agissait, pour les artistes-interprètes, d'acquérir le contrôle de l'utilisation de leur prestation et, pour les autres bénéficiaires de droits voisins, d'accompagner l'arrivée de ces nouvelles industries (du disque, de l'audiovisuel, du cinéma, etc.).
 
@@ -542,9 +542,9 @@ Cette mesure n'est néanmoins pas protégée en elle-même, mais dans le cadre d
 
 Enfin, elle doit nécessairement faire l'objet d'une information au consommateur (avec pour idée de faire jouer la loi du marché, le consommateur sanctionnant lui-même une utilisation abusive des MTP). 
 
-Les Mesures d'Information sont des informations signifiantes par elles-mêmes (directement ou indirectement —&nbsp;par exemple moyennant le recours à un index ou une base de données) et liées à l'œuvre (informations sur l'auteur, l'œuvre et sur sa licence). De même, elles ne sont pas protégées en tant que telles, mais uniquement en ce qu'elles apparaissent «&nbsp;en relation avec la communication au public de l'objet protégé&nbsp;» et uniquement pour les informations sous forme électronique.
+Les Mesures d'Information sont des informations signifiantes par elles-mêmes (directement ou indirectement &ndash;&nbsp;par exemple moyennant le recours à un index ou une base de données) et liées à l'œuvre (informations sur l'auteur, l'œuvre et sur sa licence). De même, elles ne sont pas protégées en tant que telles, mais uniquement en ce qu'elles apparaissent «&nbsp;en relation avec la communication au public de l'objet protégé&nbsp;» et uniquement pour les informations sous forme électronique.
 
-La loi HADOPI est venue _substituer_ la Haute Autorité pour la Diffusion des œuvres et la Protection des droits sur Internet (HADOPI) à l'ancienne Autorité de Régulation des Mesures Techniques (ARMT —&nbsp;cette dernière n'ayant jamais été saisie en un peu plus de deux années d'existence[^partunchapun39]).
+La loi HADOPI est venue _substituer_ la Haute Autorité pour la Diffusion des œuvres et la Protection des droits sur Internet (HADOPI) à l'ancienne Autorité de Régulation des Mesures Techniques (ARMT &ndash;&nbsp;cette dernière n'ayant jamais été saisie en un peu plus de deux années d'existence[^partunchapun39]).
 
 <!-- NOTES -->
 
@@ -568,7 +568,7 @@ Le projet de loi précise ainsi que les mesures techniques sont «&nbsp;réputé
 
 __Le cas des CSS__
 
-Les DVD se préservent de la copie par une protection dite CSS (_Content Scrambling System_) créée en 1996. En tant que MTP, le CSS est donc juridiquement protégé à condition d'être techniquement efficace —&nbsp;la loi n'a pas pour vocation de rendre efficace une mesure technique qui ne l'est pas ou qui ne l'est plus.
+Les DVD se préservent de la copie par une protection dite CSS (_Content Scrambling System_) créée en 1996. En tant que MTP, le CSS est donc juridiquement protégé à condition d'être techniquement efficace &ndash;&nbsp;la loi n'a pas pour vocation de rendre efficace une mesure technique qui ne l'est pas ou qui ne l'est plus.
 
 En l'espèce, il n'est pas certain que l'efficacité de la mesure technique puisse être démontrée, eu égard à la facilité, l'ancienneté et la grande accessibilité de son contournement. Un jugement finlandais fondé sur la directive EUCD du 22 mai 2001 est venu appuyer cette 
 thèse (source, et traduction disponibles sur [turre.com](http://www.turre.com/blog), billet du 25/05/2007). Il n'y a malheureusement pas de réponse en France sur la question, l'ARMT qui avait été créée à cette fin n'ayant jamais été officiellement saisie.
@@ -584,7 +584,7 @@ L'équilibre des mesures techniques de protection s'apprécie au regard des pré
 Protection destinée à certaines industries (celles du disque en première ligne), les demandeurs de l'action sont multiples et disposent de prérogatives différentes. Deux types d'atteintes peuvent être sanctionnées&nbsp;:
 
    1. les _atteintes indirectes_ à des protections relatives aux droits des auteurs ou droits voisins (qui concernent par exemple les logiciels permettant le contournement)&nbsp;: étant des actes d'accompagnement, ils sont envisagés plus sévèrement, car effectués par des professionnels (jusqu'à 6 mois d'emprisonnement et 30&nbsp;000 euros d'amende);
-   2. les _atteintes directes_ (contournement, neutralisation, suppression ou modification) sont sanctionnées différemment suivant si elles sont autonomes (3&nbsp;750 euros) ou assistées —&nbsp;donc par des utilisateurs finaux (actuellement 750 euros). 
+   2. les _atteintes directes_ (contournement, neutralisation, suppression ou modification) sont sanctionnées différemment suivant si elles sont autonomes (3&nbsp;750 euros) ou assistées &ndash;&nbsp;donc par des utilisateurs finaux (actuellement 750 euros). 
 
 Les demandeurs à l'action sont les titulaires de droits (ou ayants cause), ainsi que tout exploitant directement impliqué par la mise en œuvre de la mesure technique (distribution qui peut être définie contractuellement). L'action peut alors être pénale (en contrefaçon) ou civile (en responsabilité), et des peines complémentaires sont prévues (fermeture totale ou partielle de l'établissement, et diverses confiscations)[^partunchapun40].
 
@@ -603,7 +603,7 @@ Les saisines de l'ARMT (aujourd'hui HADOPI) prévues aux articles L331-5 et suiv
 
 #### Les libertés des utilisateurs
 
-Par principe, les mesures techniques venant renforcer un droit, elles ne doivent pas étendre celui-ci —&nbsp;par exemple en supprimant le bénéfice des exceptions. Par ailleurs, les actes réalisés dans le cadre d'une recherche scientifique en cryptographie ou les actes nécessaires à l'interopérabilité ne peuvent être limités par ces droits[^partunchapun41]. De la même manière, la suppression ou la modification de mesures techniques à des fins de sécurité informatique reste permise[^partunchapun42].
+Par principe, les mesures techniques venant renforcer un droit, elles ne doivent pas étendre celui-ci &ndash;&nbsp;par exemple en supprimant le bénéfice des exceptions. Par ailleurs, les actes réalisés dans le cadre d'une recherche scientifique en cryptographie ou les actes nécessaires à l'interopérabilité ne peuvent être limités par ces droits[^partunchapun41]. De la même manière, la suppression ou la modification de mesures techniques à des fins de sécurité informatique reste permise[^partunchapun42].
 
 Enfin, il semble évident qu'un utilisateur légitime dispose d'un droit d'user de l'œuvre acquise. C'est ce qui justifie qu'une MTP ne puisse s'opposer au libre usage de l'œuvre[^partunchapun43] (la lecture d'une œuvre rentre dans le cadre de ce libre usage[^partunchapun44]).
 
@@ -629,7 +629,7 @@ Il est nécessaire de qualifier les bases de données bénéficiant de ces dispo
 
 #### La qualification de base de données au sens de la Directive concernant la protection juridique des bases de données
 
-Existant uniquement en Europe[^partunchapun45], ce droit, dit «&nbsp;droit _sui generis_ des bases de données&nbsp;», sert à protéger l'investissement des producteurs de bases de données[^partunchapun46]. Ses visées sont essentiellement économiques et protègent l'investissement de celui qui, en réunissant des informations ou des contenus —&nbsp;généralement non appropriables&nbsp;— crée de la valeur sans pour autant pouvoir revendiquer un quelconque droit de propriété sur sa base. Il dure quinze années à compter de l'investissement nécessaire à l'achèvement de la base de données et une nouvelle protection démarre à chaque nouvel investissement _substantiel_.
+Existant uniquement en Europe[^partunchapun45], ce droit, dit «&nbsp;droit _sui generis_ des bases de données&nbsp;», sert à protéger l'investissement des producteurs de bases de données[^partunchapun46]. Ses visées sont essentiellement économiques et protègent l'investissement de celui qui, en réunissant des informations ou des contenus &ndash;&nbsp;généralement non appropriables&nbsp;&ndash; crée de la valeur sans pour autant pouvoir revendiquer un quelconque droit de propriété sur sa base. Il dure quinze années à compter de l'investissement nécessaire à l'achèvement de la base de données et une nouvelle protection démarre à chaque nouvel investissement _substantiel_.
 
 Enfin, en cas de litige, c'est au producteur de prouver l'investissement[^partunchapun47]  relatif à la conception de la base de données. La CJCE est venue préciser chaque type d'investissement à prendre en considération (l'obtention du contenu, sa vérification et présentation) ou non[^partunchapun48].
 
@@ -669,7 +669,7 @@ Le monopole porte sur la _base de données_ (voir sur les utilisations faites de
 
 ##### Les libertés des utilisateurs
 
-Ce droit venant limiter l'utilisation de contenu généralement non sujet à un quelconque droit exclusif (qu'il s'agisse de données, d'informations non rédigées, etc.), il est lui-même très limité (généralement associé à d'autres mécanismes de protection —&nbsp;droits exclusifs ou contrat)&nbsp;: seuls les comportements abusifs (par exemple les «&nbsp;aspirations&nbsp;» par un concurrent qui voudrait proposer le même service sans investir lui-même dans la conception d'une telle base) sont sanctionnables, l'usage normal de la base étant quant à lui en dehors de ce droit (mais l'accès à la base pouvant parfaitement être limité par un contrat qui viendrait encadrer la réutilisation des données).
+Ce droit venant limiter l'utilisation de contenu généralement non sujet à un quelconque droit exclusif (qu'il s'agisse de données, d'informations non rédigées, etc.), il est lui-même très limité (généralement associé à d'autres mécanismes de protection &ndash;&nbsp;droits exclusifs ou contrat)&nbsp;: seuls les comportements abusifs (par exemple les «&nbsp;aspirations&nbsp;» par un concurrent qui voudrait proposer le même service sans investir lui-même dans la conception d'une telle base) sont sanctionnables, l'usage normal de la base étant quant à lui en dehors de ce droit (mais l'accès à la base pouvant parfaitement être limité par un contrat qui viendrait encadrer la réutilisation des données).
 
 Ainsi, sauf à ce que le contenu même de la base de données soit objet d'un autre droit (droit d'auteur, droits voisins, etc.), l'utilisateur peut parfaitement en disposer sans demander d'autorisation.
 
