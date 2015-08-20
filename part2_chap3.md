@@ -1,4 +1,4 @@
-# Les bons réflexes
+# Les bons réflexes
 
 L'innovation, la création ou le développement reposent aujourd'hui, plus que jamais, sur une très large réutilisation des travaux de tiers. Dès lors, la question n'est plus de savoir qui détient les droits de propriété intellectuelle, mais simplement comment pouvoir les exercer&nbsp;! Cette situation &ndash;&nbsp;une concentration de titulaires de droits exclusifs réunis pour l'exploitation d'une seule création&nbsp;&ndash; amplifie l'importance d'une bonne maîtrise tant des enjeux de propriété intellectuelle que des licences libres.
 
@@ -15,7 +15,7 @@ Ce dernier chapitre est celui le plus orienté «&nbsp;pratique&nbsp;» de l'ouv
 
 Les projets doivent veiller à respecter l'ensemble des licences attachées aux composants qu'ils utilisent, notamment vis-à-vis du cadre juridique qu'elles imposent et ses conséquences quant au choix et l'ajout d'une licence (3.1.1) et du formalisme qui leur est attaché (3.1.2).
 
-### Apprécier le cadre juridique induit par les licences libres
+### Apprécier le cadre juridique induit par les licences libres
 
 Une bonne connaissance des licences est la condition nécessaire à l'appréhension du cadre juridique qu'elles induisent. Cette appréhension permet alors de prendre toute mesure liée aux contraintes issues des choix des composants. C'est en agissant avec méthode que l'on choisit la licence (3.1.1.1) et que l'on s'assure du respect des conditions nécessaires à l'ajout d'une licence libre (3.1.1.2).
 
@@ -45,7 +45,7 @@ Ainsi, la rédaction d'une nouvelle licence _open source_, si elle peut dans cer
 
 L'aspect politique pouvant, à lui seul, être la justification d'un tel choix, il est alors nécessaire de rappeler les éléments qui précèdent afin que les risques soient clairement identifiés (un mauvais choix en la matière pourra annuler l'intégralité des avantages qu'apporterait l'ouverture du projet).
 
-##### Le choix d'une licence adaptée
+##### Le choix d'une licence adaptée
 
 Plutôt que de «&nbsp;réinventer la roue&nbsp;», il est généralement conseillé d'utiliser une ou plusieurs licences existantes.
 
@@ -217,7 +217,7 @@ Cette réflexion peut se traduire mathématiquement grâce à la théorie des en
 
 ------------------------------
 
-### Respecter le formalisme lié à l'utilisation des licences libres
+### Respecter le formalisme lié à l'utilisation des licences libres
 
 La maîtrise effective des éléments constitutifs de la création est essentielle dans les projets _open source_ puisque ce n'est que lorsque l'utilisateur est matériellement en mesure d'en user que les droits cédés par la licence trouvent leur utilité[^partdeuxchaptrois20] &ndash;&nbsp;rendant indispensable l'accès à un certain nombre d'éléments matériels (code source, documents préparatoires, scripts, etc.).
 
@@ -245,7 +245,7 @@ C'est ce manque &ndash;&nbsp;moins présent pour les œuvres non logicielles[^pa
 
 Ainsi, il est possible de distinguer les obligations opérant une mise à disposition passive des informations légales (3.1.2.1.a) et celles contraignant à un affichage actif (3.1.2.1.b).
 
-##### La mise à disposition passive des informations légales
+##### La mise à disposition passive des informations légales
 
 Les informations légales (y compris le texte des licences) figurent dans les en-têtes des fichiers et (si nécessaire) dans des fichiers joints aux sources.
 
@@ -308,7 +308,7 @@ Ainsi peut-on regrouper les clauses qui ont pour vocation d'assurer&nbsp;:
 
 <!-- /NOTES -->
 
-#### Le respect du formalisme assurant une réception effective de l'œuvre
+#### Le respect du formalisme assurant une réception effective de l'œuvre
 
 Il s'agit ici du code source correspondant (3.1.2.2.a), de la documentation (3.1.2.2.b) et tout autre élément utile pour l'appréhension de la création (3.1.2.2.c).
 
@@ -358,7 +358,7 @@ Bien entendu, cette erreur est aujourd'hui corrigée.
 
 ----------------------------------------
 
-##### La documentation
+##### La documentation
 
 La documentation d'un code et d'un logiciel (ou d'une création utilitaire qui sera ou non amenée à évoluer) est une condition nécessaire à sa bonne prise en main. Deux types de documentation peuvent être distribués&nbsp;:
 
@@ -369,11 +369,11 @@ La documentation d'un code et d'un logiciel (ou d'une création utilitaire qui s
 
 Enfin, dans l'hypothèse où certains composants pourraient être _certifiés_ (ou simplement qualifiés, selon le secteur industriel), la problématique d'une mutualisation des coûts engendrés par cette certification peut venir s'ajouter aux réflexions sur l'_open source_&nbsp;: le matériel de certification pourra ainsi être librement communiqué (afin de favoriser la diffusion et utilisation du logiciel) ou, au contraire, être réservé à un groupe de sociétés afin de mutualiser le coût au sein d'une communauté d'utilisateurs. Ces problématiques sont très fortes dans des secteurs tels l'aéronautique, l'aérospatiale, le ferroviaire, l'automobile, etc.
 
-## Diffuser sous licences libres
+## Diffuser sous licences libres
 
 Le courant des licences libres, malgré sa jeunesse et sa relative complexité, a rapidement donné naissance à un nouveau système. Ainsi, c'est l'organisation des acteurs privés qui doit être examinée (3.2.1) avant de se pencher sur l'organisation relative à la diffusion du logiciel sous licence libre (3.2.2).
 
-### Se positionner dans l'écosystème du logiciel libre
+### Se positionner dans l'écosystème du logiciel libre
 
   Par leur organisation, les acteurs privés ont dessiné un nouveau système dont il convient de présenter les acteurs (3.2.1.1) et les interactions qui le caractérisent (3.2.1.2)[^partdeuxchaptrois29].
 
@@ -383,7 +383,7 @@ Le courant des licences libres, malgré sa jeunesse et sa relative complexité, 
 
 <!-- /NOTES -->
 
-#### Les acteurs du système du logiciel libre
+#### Les acteurs du système du logiciel libre
 
 Les licences libres ne sont que des outils. Le corollaire est que tous les types de personnes (physiques ou morales, privées ou publiques, de tout secteur ou métier) les utilisent, avec une pluralité de motivations, mais au profit de la constitution d'un «&nbsp;pot commun&nbsp;» qui les réunit (chacun étant libre d'y verser comme d'y puiser). Les individus, les associations et autres organismes à but non lucratif ont souvent un rapport au Libre complexe qui mêle philosophie, idéologie, et des arguments plus raisonnés comme le coût ou l'indépendance qu'offrent les solutions logicielles libres. Tandis que les entreprises, neutres par essence[@Frison-Roche2011], ainsi que les collectivités et administration adoptent le Libre par opportunité et pragmatisme (les logiciels libres assurant, outre une maîtrise des coûts, les avantages d'une grande flexibilité et d'un développement rapide).
 
@@ -400,7 +400,7 @@ Les développements qui suivent seront donc dédiés au système qui caractéris
 
 <!-- /NOTES -->
 
-##### Les éditeurs _open source_
+##### Les éditeurs _open source_
 
 Il s'agit ici de l'entreprise distribuant sous licence libre un logiciel qu'elle édite. De multiples adoptions de l'_open source_ coexistent dans le monde de l'édition&nbsp;: en fonction de l'éditeur (et de son histoire), du type de produit édité et de ses utilisateurs. Le choix n'est pas systématique, mais les éditeurs qui souhaitent construire un modèle économique innovant, voire disruptif, ont besoin de s'appuyer sur  une communautés, préexistante ou nouvellement créée, qui va jouer le rôle de soutènement (renforçant le logiciel, se substituant parfois à la société, et constituant une réserve de clients voire de salariés pour la société). À partir de là, le modèle économique de la société est généralement issu d'un équilibre entre ce qui est cédé et le contrôle, plus ou moins fort, conservé par l'éditeur (par un droit exclusif, sur la feuille de route, etc.). Se concentrant sur les seules pratiques juridiques et sans que la liste soit exhaustive, les principaux mécanismes (librement combinables) sont l'usage du droit des marques, la proposition de licence commerciale complémentaire, la mise à disposition décalée ou encore le contrat.
 
@@ -475,7 +475,7 @@ Le comportement de cette société peut, à divers égards, sembler paradoxal.
 
 -------------------------------------------
 
-##### Les intégrateurs
+##### Les intégrateurs
 
 De leur côté, les intégrateurs de logiciels libres et _open source_ (ou de solutions partiellement composées de ceux-ci) subissent généralement plus les licences qu'ils ne les choisissent&nbsp;: leur seule préoccupation étant que les briques logicielles puissent aisément se combiner entre elles. Il n'y a donc pas d'usage du droit des marques à l'égard des produits, mais surtout une expertise approfondie des combinaisons de licences leur permettant de s'assurer de la faisabilité du projet et de s'engager sur ce point auprès de leurs clients et dans leurs contrats (les clients demandant aujourd'hui la garantie de telle compétence ainsi que la livraison de certaines études précises sur ces questions). Transférant généralement un logiciel qu'il n'a pas (à priori) lui-même développé, mais seulement adapté au besoin de son client, l'intégrateur est lui-même limité par sa qualité de licencié à l'égard des auteurs des logiciels libres sur lesquels il intervient, et, ne _pouvant céder plus de droits qu'il n'en possède lui-même_, il communiquera à ses clients cesdits logiciels sous leur licence _open source_ d'origine (ou toute autre licence compatible).
 
@@ -487,7 +487,7 @@ De leur côté, les intégrateurs de logiciels libres et _open source_ (ou de so
 
 <!-- /NOTES -->
 
-##### Les constructeurs
+##### Les constructeurs
 
 Concourant à la création d'une industrie réunissant innovations matérielles et logicielles, les constructeurs (tels HP, Intel, IBM ou Dell) embarquent de plus en plus de logiciels et se rapprochent à ce titre des différents projets de logiciels libres (et l'_open cloud_) &ndash;&nbsp;devenant de jour en jour des contributeurs majeurs dans les projets OS (Linux, Busybox, etc.) au point de faire de leurs contributions respectives des éléments différenciant.
 
@@ -497,7 +497,7 @@ En effet, de tels logiciels permettent, en plus d'écorner certains monopoles, d
 
 De nombreux secteurs sont concernés par une certification (ou qualification, cf. _supra_)de leur produit&nbsp;: l'_open source_ est pour eux une solution qui permet de mutualiser les frais de développement tout en conservant le bénéfice personnel de la certification de leur version.
 
-##### Les utilisateurs
+##### Les utilisateurs
 
 Contrairement aux logiciels traditionnels, les logiciels libres sont généralement accessibles à toutes catégories d'utilisateurs, dans les mêmes conditions. Ainsi, libre à chacun (individu, société, organisme à but non lucratif, collectivité ou État) de s'installer un forum (Phpbb), un wiki (Mediawiki), voire un Facebook-like (Elgg) ou un Youtube-like (Mediacore), etc.
 
@@ -508,7 +508,7 @@ Lorsqu'il s'agit de sociétés «&nbsp;utilisatrices poussées&nbsp;», elles pe
 Néanmoins, l'impact de l'utilisation des logiciels libres peut être lié à des politiques stratégique ou économique particulières&nbsp;: par exemple en cas d'externalisation quasi totale du support, maintenance, veille _open source_ à partir d'un SI essentiellement composé de logiciels libres, ou, au contraire, lors de la mise en place d'une entité informatique interne qui gère le déploiement de solutions en logiciels libres au sein de toute la structure (avec une vraie logique de service et d'édition). Dans toutes ces situations, les utilisateurs veillent à ce que les développements réalisés pour leur compte soient ensuite mis à disposition du (et si possible intégrés dans) projet 
  _open source_ &ndash;&nbsp;gardant à l'esprit qu'il est généralement aussi cher de maintenir un composant logiciel dans la durée que de le faire développer.
 
-##### Les organisations à but lucratif et non lucratif
+##### Les organisations à but lucratif et non lucratif
 
 En plus des acteurs précédents, on retrouve plusieurs types de groupements sur lesquels s'appuient les projets libres et _open source_&nbsp;: ils sont commerciaux (tels les sociétés ou GIE) ou non (associations ou fondations), avec une personnalité morale ou non (association de fait &ndash;&nbsp;fréquent lors du lancement d'un projet&nbsp;&ndash; ou consortium), voire multiples (tel OpenOffice.org qui reposait sur l'association TeamEV, mais dont les droits de PI étaient gérés par Sun puis Oracle).
 
@@ -534,7 +534,7 @@ Les secondes concourent indirectement au développement de projets (ne produisen
    - organisations de lobbying et de promotion (April, Aful, Framasoft, Open Source for America, Ubuntu-fr, Fedora Fr, Adullact, etc.)
 
 
-##### Les centres de recherche
+##### Les centres de recherche
 
 L'implication et l'utilisation des logiciels libres par les centres de recherche sont si importantes qu'il est impossible de ne pas considérer les centres de recherches[^partdeuxchaptrois46] (et, dans une moindre mesure les universités[^partdeuxchaptrois47]) comme des acteurs à part entière du système que nous décrivons (notamment pour au regard de leur recherche à application industrielle).
 
@@ -554,7 +554,7 @@ Enfin, il est fréquent que l'intégrateur soit tenu de contribuer aux projets _
 
 Chaque relation mérite néanmoins un examen dédié&nbsp;: entre un projet et ses utilisateurs (3.2.1.2.a), entre un projet et ses contributeurs (3.2.1.2.b), entre le projet et les autres groupements (3.2.1.2.c) et entre les sociétés (3.2.1.2.d).
 
-##### Les relations entre un projet et ses utilisateurs
+##### Les relations entre un projet et ses utilisateurs
 
 Les utilisateurs sont les premiers destinataires des logiciels. Ils contribuent généralement en livrant des retours sur leur expérience. Ils sont aussi souvent les premiers générateurs de valeur, le nombre d'utilisateurs d'un logiciel étant généralement un facteur multipliant la valeur du logiciel vis-à-vis de ceux qui ne l'utilisent pas encore. La licence utilisée sur l'œuvre logicielle est souvent le seul document les intéressant et, au sein de ce dernier, seuls les droits d'utilisation les concernent véritablement. Dans le cadre de certains projets, il arrive que des limitations s'ajoutent, en raison, par exemple, de composants commerciaux&nbsp;: l'utilisateur y consentira alors lors du téléchargement, de l'exécution ou de l'installation du logiciel.
 
@@ -579,7 +579,7 @@ Dans la situation d'un éditeur (ou la communauté qui revêt ce rôle) déjà i
 
 Dès les premières contributions au projet, il devient nécessaire d'avoir une réflexion pointue sur la gestion de la propriété intellectuelle, donnant éventuellement naissance à une politique en la matière, que celle-ci soit très protectionniste ou au contraire très ouverte.
 
-###### Les enjeux et problématiques liés à la détention des droits de propriété intellectuelle
+###### Les enjeux et problématiques liés à la détention des droits de propriété intellectuelle
 
 La question de la détention des droits de propriété intellectuelle, de la «&nbsp;titularité&nbsp;», est d'une importance variable dans un projet _open source_. En fonction de la licence (surtout si cette dernière est _copyleft_) et du type de projets, la détention peut être cruciale en ce qu'elle confère un certain contrôle sur le projet (par exemple pour toutes les sociétés qui pratiquent les doubles licences, dit _dual licensing_). Cette détention peut au contraire être très faible lorsque la licence choisie est très ouverte, lorsque le projet est soumis aux licences de composants _open source_ qu'il intègre, ou encore lorsque trop de contributeurs se partagent cette titularité.
 
@@ -595,7 +595,7 @@ Inversement, afin de se prémunir face à un éventuel contrôle sur un logiciel
 
 <!-- /NOTES -->
 
-###### Les _Contributor License Agreement_, _Copyright Assignment_ ou de _Join Copyright_
+###### Les _Contributor License Agreement_, _Copyright Assignment_ ou de _Join Copyright_
 
 Il est ainsi fréquent que le nombre de contributeurs (et donc de titulaires de droits) dépasse la dizaine voire le millier. Leur anonymat ainsi que leur dispersion géographique sont parfois des obstacles infranchissables pour la suite du projet&nbsp;: l'absence de consentement d'un seul interdit toute décision concernant la création dans son ensemble et la seule échappatoire reste alors de supprimer les contributions pour lesquelles il manque cette autorisation.
 
@@ -613,11 +613,11 @@ Par ailleurs, ces contrats ne sont réellement fiables qu'en cas de certitude qu
 
 <!-- /NOTES -->
 
-##### La collaboration avec d'autres groupements
+##### La collaboration avec d'autres groupements
 
 Il est très fréquent que les différents projets ou organisations se réunissent pour travailler de concert sur des projets communs&nbsp;: soit qu'ils aient des compétences ou expériences complémentaires, transverses (tels les aspects juridiques liés aux licences et aux brevets), soit qu'ils mettent en commun leurs forces pour le développement d'une solution plus vaste.
 
-##### La collaboration entre sociétés
+##### La collaboration entre sociétés
 
 Une société éditrice de logiciels qui met en place son modèle commercial prend généralement en considération ses partenaires, ses concurrents et ses clients. Il est assez simple de séparer les uns des autres&nbsp;: la société est liée par contrat avec ses partenaires (distributeurs, revendeurs, etc.) et ses clients (contrats souvent négociés pour les premiers et imposés pour les seconds), et n'entretient que des relations contractuelles exceptionnelles avec ses concurrents.
 
@@ -655,13 +655,13 @@ Il faudrait certainement se projeter dans quelques années pour mesurer l'impact
 
 ------------------------------------
 
-### Organiser la diffusion (accompagner l'ouverture du code)
+### Organiser la diffusion (accompagner l'ouverture du code)
 
 L'organisation de la diffusion est souvent la clé qui  assure la pérennité d'un projet, sa stagnation ou son abandon. Malheureusement, il n'y a pas une organisation idéale, une structure parfaite, mais uniquement des cas d'espèce. Pour une entreprise, cela implique de se reposer sur un ensemble hétérogène de personnes au sein de l'entreprise qui perçoivent les enjeux de l'_open source_ et qui s'assure du respect des licences.
 
 Ainsi, que ce soit pour ce seul projet ou pour une multitude, il est nécessaire d'entamer une telle réflexion et, une fois les besoins identifiés, d'organiser l'accompagnement &ndash;&nbsp;que ce soit en interne ou en externe ([guideopensource.info](http://guideopensource.info)).
 
-#### Gérer les licences libres
+#### Gérer les licences libres
 
 La mise en place d'une bonne gestion des licences libres passe nécessairement par une étude des enjeux pour la société et/ou le projet (3.2.2.1.a), la définition des besoins (3.2.2.1.b) et l'organisation de l'accompagnement (3.2.2.1.c).
 
@@ -691,7 +691,7 @@ En fonction des enjeux, plusieurs besoins peuvent être identifiés&nbsp;:
 
 <!-- /NOTES -->
 
-##### Organiser l'accompagnement
+##### Organiser l'accompagnement
 
 À ce stade, il s'agit de définir quelles sont les tâches qui peuvent être externalisées et quelles sont celles qui doivent être conservées en interne.
 
@@ -727,7 +727,7 @@ Ainsi, ce travail ne peut être mené que conjointement entre l'équipe techniqu
 
 D'une manière plus générale, le succès d'une politique active en faveur de l'_open source_ repose sur une implication de l'ensemble des collaborateurs dans le processus de restructuration et une montée des compétences de ces derniers afin qu'ils comprennent et partagent ce nouveau paradigme&nbsp;: par l'organisation de formations, la rédaction et la mise à disposition des informations qui leurs sont utiles, l'organisation de leurs contributions au sein de chartes (contribution, développements, processus de validation, etc.).
 
-###### S'équiper avec de bons outils
+###### S'équiper avec de bons outils
 
 Enfin, l'usage de certaines solutions logicielles peut simplifier, voire approfondir[^partdeuxchaptrois56] cette mission, en automatisant l'audit de code[^partdeuxchaptrois57] voire la gestion au quotidien de la base de code validée. Tous les outils ne sont pas équivalents, et tous n'ont pas vocation à être utilisés au même moment ou par les mêmes personnes (dans le cadre de _due diligence_, les audits demanderont ponctuellement l'utilisation d'outils très poussés, alors que la vérification automatique et journalière des développements réalisés pourra être plus superficielle).
 
@@ -746,7 +746,7 @@ standard pour la communication des composants, licences et mentions légales ass
 
 
 
-#### Gérer les autres aspects juridiques
+#### Gérer les autres aspects juridiques
 
 Comme vu précédemment, différents documents peuvent être mis en place pour accompagner l'organisation vis-à-vis des tiers et notamment pour donner un cadre formel à la collaboration&nbsp;(3.2.2.2.a), et la rédaction d'une politique en matière de marque précise à l'intention des tiers et des licenciés (3.2.2.2.b).
 
