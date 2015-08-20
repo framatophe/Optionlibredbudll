@@ -676,7 +676,7 @@ On notera enfin que le rassemblement d'œuvres logicielles distinctes (_mere agg
 
 <!-- /NOTES -->
 
-![Représentation des licences (A,B,C,D composants du programme d'origine, X,Y composants d'un autre)](images/tableau_etendue_licence.png)
+![Représentation des licences (A,B,C,D composants du programme d'origine, X,Y composants d'un autre)](images/tableau_etendue_licence_versionWEB.png)
 
 
 
