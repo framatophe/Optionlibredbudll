@@ -76,7 +76,7 @@ La loi applicable et le tribunal compétent sont ceux de «&nbsp;l'État membre 
 
 Enfin, la licence est expressément _compatible_ avec cinq autres licences similaires&nbsp;: une clause venant spécialement autoriser la redistribution sous un certain nombre de licences dès lors qu'une œuvre dérivée combine composants sous licence EUPL et composants sous l'une de ces licences compatibles[^parttrois9].
 
-## GNU General Public License (GNU GPL) {-}
+## GNU General Public License (GNU GPL) {-}
 
 Première licence libre, la GNU GPL fut la première à contractualiser la notion de pot commun, avec pour objectif de faciliter l'accès aux codes sources et leurs interactions. La GNU GPL est, historiquement, réservée aux logiciels et elle est de mieux en mieux rédigée au fur et à mesure de ses versions.
 
@@ -105,7 +105,7 @@ Concernant l'_élément déclencheur_, les obligations de la licence ne sont opp
 
 Intransigeante, même envers les autres licences libres et _open source_, la licence GNU GPL n'organise elle-même aucune compatibilité. 
 
-## GNU GPL v.&nbsp;3 {-}
+## GNU GPL v.&nbsp;3 {-}
 
 Un lot de nouvelles stipulations précise ou étend les obligations de la précédente version&nbsp;:
 
@@ -195,7 +195,7 @@ __Remarque__
 -------------------------------------
 
 
-## MIT License {-}
+## MIT License {-}
 
 La [licence MIT](http://opensource.org/licenses/mit-license.php), dans ses différentes versions, est une licence libre très permissive qui ressemble beaucoup à la licence BSD&nbsp;: elle opère le partage de tous les droits patrimoniaux de l'auteur sous la seule condition de respecter la paternité de ce dernier et de conserver les mentions légales. Il s'agit ainsi d'une sorte de «&nbsp;mise dans le domaine public.&nbsp;»[^parttrois17]
 
@@ -207,11 +207,11 @@ L'_étendue_ de la licence se limite à la seule portion du code publiée sous c
 
 Enfin, en raison de son caractère peu contraignant, la licence est _compatible_ avec la majorité des autres licences (commerciales ou libres).
 
-## Mozilla Public License (MPL) {-}
+## Mozilla Public License (MPL) {-}
 
 Crée en 1998 à l'occasion de la libération du code source de Netscape Communicator 5, la MPL est actuellement utilisée en sa version&nbsp;1.1, une version&nbsp;2.0 est néanmoins en cours d'écriture &ndash;&nbsp;intégrant quelques idées qui avaient justifié la création de la licence CPAL. 
 
-### Mozilla Public License v.&nbsp;1.1 {-}
+### Mozilla Public License v.&nbsp;1.1 {-}
 
 Autorisation expresse est donnée de _sous-licencier_ le code. La [MPL](http://www.mozilla.org/MPL) est _copyleft_. En matière de brevets, une licence expresse (auteurs initiaux et contributeurs) autorise toute fabrication, utilisation ou vente du logiciel original, ses modifications et/ou des combinaisons entre le logiciel et les modifications (le tout limité à la seule version du contributeur auteur).
 
@@ -227,7 +227,7 @@ En plus de préciser les définitions de la version précédente, la [seconde ve
    - en termes de _compatibilité_, la licence prévoit la possibilité de diffuser le composant sous licence GNU (GPL, LGPL ou AGPL) en situation d'incompatibilité.
 
 
-### Common Public Attribution License Version 1.0 (CPAL) {-}
+### Common Public Attribution License Version 1.0 (CPAL) {-}
 
 Approuvée par l'OSI en 2007, la licence CPAL s'inspire de la MPL qu'elle module sur deux aspects&nbsp;:
 
@@ -236,13 +236,13 @@ Approuvée par l'OSI en 2007, la licence CPAL s'inspire de la MPL qu'elle module
 
 
 
-## CeCILL(-A, -B, -C) {-}
+## CeCILL(-A, -B, -C) {-}
 
 Les licences [CeCILL](http://www.cecill.info/licences.fr.html), acronyme pour Ce(A) C(nrs) I(NRIA) L(ogiciel) L(ibre), furent créées pour répondre aux arguments qui empêchaient les administrations françaises d'utiliser les licences GNU pour diffuser leurs logiciels&nbsp;: l'application de la loi 94-665 du 4 août 1994 relative à l'emploi de la _langue française_ (plus connue sous le nom de _loi Toubon_, ministre de la Culture de l'époque) qui contraint toute administration à s'appuyer sur des textes juridiques français, le constat d'imprécision à l'égard du droit français (droit sur lequel repose la licence, droits patrimoniaux, clause de non garantie).
 
 Elles sont toutes construites sur le canevas de la première licence (la licence CeCILL ou CeCILL-A).
 
-### La CeCILL-A {-}
+### La CeCILL-A {-}
 
 Première des licences, la licence CeCILL (ou CeCILL-A) précéda la rédaction des deux autres.
 
@@ -278,7 +278,7 @@ Quatrième série des licences Creative Commons (la numérotation intermédiaire
 Les licences Creatives Commons sont dédiées aux œuvres utilitaires (et ne sont donc pas adaptées à une [utilisation sur des logiciels](https://wiki.creativecommons.org/wiki/Frequently_Asked_Questions#Can_I_use_a_Creative_Commons_license_for_software.3F) ou [bases de données](https://creativecommons.org/weblog/entry/26283)).
 
 
-### Droits et obligations {-}
+### Droits et obligations {-}
 
 Concernant les droits, toutes les licences Creatives Commons ne sont pas aussi libres et elles n'ont donc en commun que de permettre la diffusion et l'utilisation non commerciale des œuvres _non modifiées_.
 
@@ -344,7 +344,7 @@ C'est à cette problématique que tente de répondre l'ODbL, la licence faisant 
 
 La licence ne couvre néanmoins pas le contenu même de la base de données pris isolément. Une nouvelle licence peut alors y être associée (article 2.4, «&nbsp;Rapport avec le contenu de la base de données&nbsp;»), ni même les brevets ou marques qui pourraient y figurer (article&nbsp;2.3, «&nbsp;Droits non compris dans la licence&nbsp;»).
 
-### Droits et obligations {-}
+### Droits et obligations {-}
 
 Tout accès, toute transmission ou toute publication d'une base de données (d'origine, dérivée ou en tant que partie d'une BdD collaborative) vaut acceptation de la licence.
 
@@ -356,11 +356,11 @@ Tous les droits d'auteur et droits _sui generis_ détenus sur la base de donnée
 
 La licence n'autorise pas les sous-licences (il n'y a pas de chaîne contractuelle&nbsp;: chaque titulaire cédant ses seuls droits à chaque utilisateur) et est bien sûr non exclusive (article&nbsp;3.3).
 
-#### Obligations {-}
+#### Obligations {-}
 
 Tout manquement aux obligations de la licence entraîne la résiliation de la licence (article 9.0, «&nbsp;Cessation de vos droits au titre de la présente licence&nbsp;») &ndash;&nbsp;même si un processus de rétablissement des droits est prévu pour réintroduire les utilisateurs «&nbsp;repentants&nbsp;» dans leurs droits (les personnes dont les droits font l'objet d'une cessation permanente ne pouvant bénéficier d'une nouvelle licence).
 
-#### _Copyleft_ (partage à l'identique des conditions initiales) {-}
+#### _Copyleft_ (partage à l'identique des conditions initiales) {-}
 
 La base de données d'origine et les bases de données dérivées doivent être licenciées sous la même licence ou sous l'une des licences compatibles (article&nbsp;4.4, «&nbsp;Partage à l'identique des conditions initiales&nbsp;»).
 
@@ -379,13 +379,13 @@ Lors de la transmission de la BdD, il faut veiller à conserver les mentions lé
 
 La licence contient par ailleurs une interdiction de l'usage de mesures techniques de protection (MTP), sauf à rendre parallèlement disponible ladite base sans MTP, ainsi qu'une exclusion de garantie et une limitation de responsabilité totale (la portée de ces dernières étant limitée en France).
 
-### Étendue {-}
+### Étendue {-}
 
 Au-delà de la base de données d'origine, la licence doit être étendue à toute base de données dite  _dérivée_ (base de données _reposant sur_ la base originaire) et exploitée publiquement.
 
 La licence permet néanmoins toute utilisation conjointe de plusieurs bases de données indépendantes. Il s'agit alors de bases de données collaboratives et seules la base de données d'origine ou ses dérivées doivent être diffusées sous ODbL.
 
-### Éléments déclencheurs {-}
+### Éléments déclencheurs {-}
 
 La licence n'impose aucune contrainte quant au transfert, à l'utilisation privée de la base de données ou à la conception de créations grâce à ladite base de données.
 
@@ -398,7 +398,7 @@ La licence prend ses pleins effets dès lors qu'il y a&nbsp;:
 
 Un mécanisme de compatibilité expresse est prévu au sein de la licence, laissant à la charge du concédant le soin de préciser quelles sont les licences compatibles ou de désigner un mandataire qui le fera pour son compte (article&nbsp;4.4e).
 
-## PHP License v.3.01 {-}
+## PHP License v.3.01 {-}
 
 La licence PHP est une licence _open source_ aujourd'hui utilisée en version [3.01](http://www.php.net/license/3_01.txt). C'est une licence permissive, qui contient néanmoins quelques _obligations_ en matière d'attribution&nbsp;:
 
