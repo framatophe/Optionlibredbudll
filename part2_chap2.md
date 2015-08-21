@@ -31,7 +31,7 @@ Un contrat exprime la volonté des parties et tient lieu de _loi des parties_ d�
 
 <!-- /NOTES -->
 
-### Un engagement juridique
+### Un engagement juridique
 
 Il convient d'analyser le type d'engagement juridique (2.1.1.1), l'impact des éléments liés au caractère international des licences (2.1.1.2) ainsi que la validité des exclusions de garantie et de responsabilité (2.1.1.3).
 
@@ -63,7 +63,7 @@ En termes de schémas contractuels attachés à des créations composées de mul
 
 Enfin, une même personne sera liée à plusieurs personnes différentes (l'auteur de la création initiale d'une part et les utilisateurs de l'œuvre dérivée d'autre part) par la même licence (notamment lorsque celle-ci est _copyleft_). L'_instrumentum_ (le contrat qui exprime les engagements) est bien le même, mais les deux relations sont indépendantes&nbsp;: ainsi l'utilisateur ne pourra pas reprocher le non-respect des obligations de la licence, pas plus que l'auteur d'une contribution ne pourra reprocher ce même non-respect vis-à-vis d'une contribution dont il n'est pas l'auteur ou le cessionnaire. Ainsi, dans l'arrêt de la cour d'appel de Paris du 16 septembre 2009 (SA EDU4 c/ Association AFPA) le contrat n'est pas annulé pour non-respect de la licence, mais pour non-respect des autres obligations contractuelles prises au surplus par la société.
 
-###### Un contrat conclu à titre gratuit
+###### Un contrat conclu à titre gratuit
 
 Aucun prix ne conditionnant le bénéfice des licences, celles-ci sont des contrats gratuits qui offrent notamment aux licenciés le droit de distribuer la création comme ils l'entendent, commercialement ou non. La mise à disposition (acte matériel) de la création soumise à la licence peut ainsi parfaitement être payante &ndash;&nbsp;et, de fait, beaucoup d'entreprises «&nbsp;vendent du Libre&nbsp;»&nbsp;&ndash; tant que la licence est par ailleurs respectée (certaines vont en effet immédiatement, automatiquement et gratuitement étendre leur bénéfice aux nouveaux utilisateurs). Une œuvre dont l'accès est gratuit n'est pas forcément libre et réciproquement.
 
@@ -157,7 +157,7 @@ Les licences raisonnent, tels des contrats, à l'échelle des personnes (physiqu
 
 En matière de groupe de sociétés, la [FAQ de la GNU GPL](http://www.gnu.org/licenses/gpl-faq.html) renvoie à la loi applicable en indiquant que la loi américaine ne semble pas considérer qu'il y ait dans ce cas de distribution. En droit français la notion d'entreprise, dépassant les clivages de simples sociétés, permettrait sans doute d'arriver à la même conclusion. Néanmoins, il est fréquent que ces grands groupes fusionnent, intègrent des sociétés, s'en séparent ou fassent appel à des filiales. Il est alors nécessaire de veiller à ce que les licences soient respectées lorsque des créations sous licences libres circulent entre plusieurs personnes juridiques (entre une société mère et ses filiales, mais aussi en cas de rachat de l'activité d'une société par une autre, etc.). En effet, la situation juridique de ces dernières peut engendrer l'application des licences sans qu'il n'y ait d'acte matériel supplémentaire (sauf à s'assurer que seule la personne juridique initiale conserve lesdites créations), si l'élément déclencheur peut rétroactivement être considéré comme atteint.
 
-###### La question de la chaîne contractuelle
+###### La question de la chaîne contractuelle
 
 La notion de chaîne contractuelle s'est développée avec l'industrialisation et la multiplication des intermédiaires. Il s'agit d'une succession de contrats reliés par une identité d'objet et relatifs à un même bien. La chaîne est dite homogène lorsqu'elle est constituée d'une suite de contrats qui ont une qualification identique. On parle par ailleurs de groupe de contrats lorsque les contrats qui se succèdent ne portent pas sur le même objet, mais concourent à un même but (ce qui peut caractériser les créations pour lesquelles chaque contribution est cédée selon les mêmes termes). 
 
@@ -190,11 +190,11 @@ C'est donc une logique véritablement inverse à la conception traditionnelle de
 
 Du fait de l'évolution de notre société vers l'immatérialisation, l'objet de droits devient de plus en plus complexe, glissant du seul logiciel &ndash;&nbsp;en qualité d'œuvre &ndash; à tout type de créations, tant du domaine de la propriété littéraire et artistique (œuvres, interprétations, bases de données, etc.) que de la propriété industrielle (brevets, topographies de semi-conducteurs, etc.).
 
-#### Les éléments liés au caractère international des licences
+#### Les éléments liés au caractère international des licences
 
 Il s'agit ici de la langue du contrat (2.1.1.2.a) et des notions de loi applicable et de tribunaux compétents (2.1.1.2.b).
 
-##### La langue du contrat
+##### La langue du contrat
 
 Les licences sont, dans leur très grande majorité, rédigées en langue anglaise. Pour contrôler les risques d'erreurs, les traductions des licences n'ont généralement aucune valeur contractuelle. C'est notamment la position vis-à-vis des licences GNU, même si, à l'inverse, d'autres licences (LAL, CeCILL ou plus largement encore l'EUPL) confèrent expressément une valeur équivalente aux diverses versions. Quoi qu'il en soit, il est toujours utile de les associer lors de la distribution de la création, leur faisant intégrer un tout qui, même expressément exclu de la relation contractuelle, sera connu des parties et du juge. Car si un titulaire de droits peut parfaitement choisir d'utiliser la seule version traduite, il court le risque d'y glisser des erreurs voire, lorsque la licence est _copyleft_, de rendre cette version incompatible avec la version originale. 
 
@@ -214,13 +214,13 @@ En application de la convention de Rome sur la loi applicable aux obligations co
 
 La détermination se fera donc au cas par cas&nbsp;: conformément aux licences lorsqu'elles précisent la loi applicable (certaines licences précisent celle-ci ou les règles relatives à sa détermination) ou, à défaut, conformément aux règles classiques.
 
-#### L'exclusion de responsabilité et de garanties
+#### L'exclusion de responsabilité et de garanties
 
 Par principe, les licences libres excluent toute responsabilité et il n'est d'ailleurs pas certain que le droit de la consommation trouve à s'appliquer à défaut de déséquilibre entre les parties. Deux remarques néanmoins : cela est surtout vrai dans l'hypothèse où tant la licence que la mise à disposition de la création se font à titre gracieux, ensuite, cette exclusion ne s'étend cependant pas à la responsabilité qui serait liée au propre fait de l'auteur (auteur d'une faute lourde).
 
 En matière de garantie, la garantie d'éviction (être titulaire de droits sur les droits que l'on cède) ne peut être exclue, d'autant que cette cession de droit est la cause de l'engagement du licencié. En revanche, les garanties légales (garantie légale de conformité, garantie légale des vices cachés) ne s'appliquent pas automatiquement à la licence (en l'absence de vente), mais pourront éventuellement trouver à s'appliquer au contrat de mise à disposition (voire de développement spécifique) susceptible de lier le licencié au concédant.
 
-### Une cession non exclusive de droits
+### Une cession non exclusive de droits
 
 La non-exclusivité des licences est à la base de leur fonctionnement. C'est aussi elle qui permet de justifier les obligations, parfois excessivement contraignantes, à la charge du concédant. En effet, même lorsque celui-ci se voit contraint par une licence _copyleft_, il ne perd en aucun cas la possibilité d'exploiter différemment ses contributions à un autre moment, dans un autre cadre et à d'autres conditions (quitte à en faire une version mise à jour entièrement propriétaire).
 
@@ -268,11 +268,11 @@ Fruits partiels des litiges liés à l'utilisation des licences Creative Commone
 
 <!-- /NOTES -->
 
-## Caractériser par une classification des licences libres
+## Caractériser par une classification des licences libres
 
 De nombreux regroupements permettent de classifier les différentes licences libres. Les cumuler et les croiser permet d'avoir une vision plus globale du système des licences libres. Il est ainsi possible de regrouper les licences en deux catégories, licences permissives et licences _copyleft_ (2.2.1), en phase historique (2.2.2), par domaine d'application (2.2.3) ou encore en fonction des libertés qu'elles confèrent aux utilisateurs (2.2.4).
 
-### Classification classique : licence copyleft _versus_ permissive
+### Classification classique : licence copyleft _versus_ permissive
 
 L'utilisation du terme _copyleft_ désigne des licences qui rendent persistantes les libertés consenties en astreignant les utilisateurs subséquents à concéder systématiquement les mêmes libertés. Dans cette situation c'est l'intérêt de l'utilisateur final qui prévaut sur la liberté de celui qui diffuse l'œuvre. Deux types de clauses traduisent cette mention&nbsp;:
 
@@ -305,7 +305,7 @@ Le terme _copyleft_, double jeu de mots _copyleft/copyright_ et \_copy 'left'_, 
 
 ----------------------------
 
-### Classification historique
+### Classification historique
 
 Même si moins tranchée et plus personnelle, une représentation historique des licences permet un second regroupement opportun.
 
@@ -327,7 +327,7 @@ Concrétisation du mouvement _open source_, l'arrivée de sociétés commerciale
 
 <!-- /NOTES -->
 
-### Classification par domaine
+### Classification par domaine
 
 Comme le laisse entrevoir cet ouvrage, les licences libres sont aujourd'hui utilisées dans de nombreux domaines&nbsp;: les logiciels bien sûr, mais aussi les encyclopédies (on pense bien sûr à Wikipedia), les livres, la musique et bientôt tout type de création. La majeure partie des licences libres trouve ainsi son fondement dans une application particulière pour un domaine artistique ou technique bien déterminé et il est généralement délicat, et déconseillé, de transposer dans un nouveau domaine des licences pensées et rédigées dans un contexte particulier.
 
@@ -365,7 +365,7 @@ Sous la coprésidence de Valérie-Laure Bénabou et de Joëlle Farchy, la commis
 
 <!-- /NOTES -->
 
-## Déchiffrer : une grille de lecture de licences libres
+## Déchiffrer : une grille de lecture de licences libres
 
 Distinguer les licences les unes des autres est une première étape, nécessaire, mais non suffisante pour en jouir entièrement. Encore faut-il en effet comprendre la structure commune à chacune d'entre elles.
 
@@ -387,7 +387,7 @@ Il est ainsi possible de décomposer une licence libre selon trois éléments&nb
 
 Enfin, de plus en plus de licences intègrent en leur sein un mécanisme de _compatibilité_ (2.3.4).
 
-### Les droits et obligations des licences libres
+### Les droits et obligations des licences libres
 
 Comme tout contrat, les licences libres sont des rapports de droits qui se composent de droits et d'obligations, les droits venant accroître l'actif du licencié tandis que les obligations grèvent son passif.
 
@@ -395,7 +395,7 @@ Droits et obligations sont autant d'éléments qui distinguent les licences les 
 
 S'il est très facile de percevoir les droits cédés par les licences libres grâce aux efforts effectués par la rédaction de la Free Software Definition ([FSD](http://www.gnu.org/philosophy/free-sw.html)) et de l'OSD (2.3.1.1), il n'existe aujourd'hui aucun référentiel commun en matière d'obligations (2.3.1.2).
 
-#### Des droits identiques
+#### Des droits identiques
 
 Les droits sont harmonisés grâce aux définitions que sont l'Open Source Definition ou la Free Software Definition précédemment présentées.
 
@@ -409,7 +409,7 @@ Enfin, notons que tous les droits de propriété intellectuelle ne sont pas syst
 
 <!-- /NOTES -->
 
-#### Des obligations variées
+#### Des obligations variées
 
 Le corollaire de cette cession de droit est l'existence de multiples conditions et obligations non négociables. Les personnes qui souhaitent bénéficier de la licence s'engagent ainsi à en respecter les contraintes &nbsp;: avec l'engagement automatique de la responsabilité de celles souhaitant s'y soustraire.
 
@@ -433,7 +433,7 @@ C'est dans les obligations (en matière de paternité, de _copyleft_, brevets, e
 
 <!-- /NOTES -->
 
-##### Les obligations de faire au sein des licences
+##### Les obligations de faire au sein des licences
 
 Les obligations de faire sont des obligations par lesquelles une des parties (le débiteur) s'engage à accomplir certains actes en faveur de l'autre partie (le créancier). On peut donner comme exemples les obligations de délivrance (de remettre matériellement la chose) ou de renseignement (devoir implicite d'informer l'autre partie des informations qu'elle détiendrait relatives au contrat).
 
@@ -497,7 +497,7 @@ Néanmoins, souvent utilisées par défaut, sans réflexion de fond, ces licence
 
 ----------------------------------
 
-##### Les obligations de donner au sein des licences
+##### Les obligations de donner au sein des licences
 
 On parle d'obligations de donner lorsqu'il y a transfert d'un droit réel sur une chose (droit permettant de tirer d'un bien tout ou partie de son utilité économique &ndash;&nbsp;les différents droits de propriété intellectuelle entrant dans cette catégorie de droits réels[^partdeuxchapdeux39]).
 
@@ -522,7 +522,7 @@ Ces pratiques sont néanmoins de plus en plus rares et les licences actuellement
 
 --------------------------------------
 
-#### La sanction du non-respect des licences
+#### La sanction du non-respect des licences
 
 Les obligations des licences libres sont généralement des conditions résolutoires&nbsp;: la licence contenant en effet un processus de terminaison automatique de la licence, immédiate ou différée, en cas de non-respect. Cette résiliation[^partdeuxchapdeux40] du contrat a pour effet d'interdire toute exploitation de la création concernée et de rendre l'ancien licencié susceptible de contrefaçon pour toute exploitation postérieure. Au cours d'une action particulièrement violente, la SFLC avait par ailleurs plaidé qu'en cas de non-respect de la licence, celle-ci se terminait automatiquement sans possibilité d'en bénéficier à nouveau, sauf à ce que l'auteur (ou la communauté d'auteurs) réintroduise la société dans ses droits[^partdeuxchapdeux41].
 
@@ -570,7 +570,7 @@ On distingue généralement trois types d'étendue (étendue faible, standard et
    - l'étendue _standard_ (ou _légale_)&nbsp;: l'appréciation de l'étendue conformément au droit applicable, permettant généralement diverses liaisons entre plusieurs composants&nbsp;;
    - l'étendue _forte_&nbsp;: la création originale, ses modifications et toute autre création qui serait dépendante (donc liée) seraient soumises à cette étendue.
 
-##### L'étendue restreinte
+##### L'étendue restreinte
 
 Cette étendue ne concerne en pratique que les licences permissives&nbsp;: seule la version diffusée par l'auteur initial restera soumise à la licence d'origine, tandis que toute modification sera potentiellement, pour les éléments apportés, sous une autre licence.
 
@@ -681,11 +681,11 @@ On notera enfin que le rassemblement d'œuvres logicielles distinctes (_mere agg
 
 
 
-##### L'appréciation de l'étendue au sein des relations particulières susceptibles de rattacher plusieurs composants logiciels
+##### L'appréciation de l'étendue au sein des relations particulières susceptibles de rattacher plusieurs composants logiciels
 
 Les logiciels sont, dans des degrés différents, plus ou moins autonomes ou dépendants d'autres logiciels. Ainsi, de multiples relations peuvent exister entre différents logiciels, aux effets variables.
 
-###### Le cas des œuvres produites par un logiciel sous licence _copyleft_
+###### Le cas des œuvres produites par un logiciel sous licence _copyleft_
 
 Il est souvent demandé si l'œuvre issue d'un logiciel peut être qualifiée d'œuvre dérivée, ou basée sur celui-ci. La réponse est heureusement négative par principe&nbsp;: l'œuvre est produite par la fonction programme, extérieure à la forme de celui-ci. Un bémol persiste cependant, puisque certains programmes incluent une partie de leur code dans les œuvres qu'ils génèrent[^partdeuxchapdeux65]. Celles-ci peuvent donc valablement être qualifiées d'œuvres dérivées et soumises en ce nom à la licence _copyleft_. La situation doit être nuancée en ce que ce type de logiciels prévoient fréquemment une exception dans leur licence permettant à l'utilisateur de disposer «&nbsp;librement&nbsp;» de sa création. Néanmoins, d'autres utilisent ce _copyleft_ «&nbsp;déloyal&nbsp;» afin de rendre attractive une licence commerciale par ailleurs proposée. Par exemple, lors d'une compilation par EiffelStudio, les binaires contiennent du code[^partdeuxchapdeux66] soumis à la GNU GPL et doivent alors se conformer à la licence, situation paradoxale où les binaires sont soumis à la licence pour un simple _runtime_ en GNU GPL, alors que les fichiers sources seuls ne le seraient pas (car ne contenant pas lesdits fichiers).
 
@@ -709,7 +709,7 @@ Les bibliothèques logicielles se distinguent des logiciels programmes en ce qu'
 
 <!-- /NOTES -->
 
-###### Le cas des plug-ins et drivers de périphériques
+###### Le cas des plug-ins et drivers de périphériques
 
 Il semble qu'il faille ici transposer la démarche précédente puisqu'il s'agira le plus souvent[^partdeuxchapdeux69] d'une liaison dynamique entre le plug-in et le logiciel. Les drivers sous GNU GPL posent des questions plus simples puisque, lorsqu'ils communiquent avec des systèmes d'exploitation, ceux-ci bénéficient d'une exception expresse qui les dispense de la distribution du tout[^partdeuxchapdeux70]. À l'opposé, si c'est le système d'exploitation qui est sous GNU GPL, l'effet devrait être contraire: d'où l'interprétation apportée par Linus Torvalds afin de réduire la portée du _copyleft_ de son kernel. C'est pourquoi, dans le cas de développement de logiciels _en grappe_ &ndash;&nbsp;par l'accumulation de plug-ins&nbsp;&ndash;, il est conseillé d'utiliser une licence avec un _copyleft_ standard, ou de rajouter une exception à un _copyleft_ fort. Dans le cas contraire, la GNU GPL n'y verra pour sa part qu'une seule œuvre, l'existence d'un module propre à un logiciel faisant quasi systématiquement supposer une intention de lier les deux en un tout. L'argument de Linus Torvalds qui consiste à prendre uniquement en considération l'intention des parties semble être la meilleure ligne de conduite[^partdeuxchapdeux71], même si c'est la plus difficile à mettre en œuvre et si beaucoup de licenciés n'en ont pas conscience. Dans une telle hypothèse, c'est le juge qui tranchera en déduisant l'intention du comportement (dans le cas du noyau Linux, une commande spécifique a été créée à cette fin[^partdeuxchapdeux72]).
 
@@ -793,7 +793,7 @@ Sur le fondement de la distribution, voir l'assignation de Free devant le TGI de
 
 --------------------------------------
 
-#### L'utilisation
+#### L'utilisation
 
 En réaction aux usages développés sans distribution (notamment l'utilisation des logiciels en SaaS, c'est-à-dire comme un service &ndash;&nbsp;Software as a Service) certains souhaitèrent régler la question du déclenchement en fixant ce dernier très bas.
 
