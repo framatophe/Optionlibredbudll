@@ -1,4 +1,6 @@
-# Quelques acronymes et abréviations utilisés            
+# Quelques acronymes et abréviations utilisés 
+
+<!-- attention la mise en page correspond à la syntaxe pandoc de liste descriptive -->
 
 AFL
 
