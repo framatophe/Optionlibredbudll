@@ -12,3 +12,4 @@
 * [Part2 chap2](part2_chap2.md)
 * [Part2 chap3](part2_chap3.md)
 * [Part3](Part3.md)
+* [Annexe 2](annexe2_glossaire.md)
