@@ -152,7 +152,7 @@ Ainsi, alors que la propriété du Code civil servait initialement de modèle à
 <!-- /NOTES -->
 
 
-###### La contestation du caractère incitatif
+###### La contestation du caractère incitatif
 
 Le caractère incitatif de la propriété intellectuelle a toujours été présenté comme un postulat, sans qu'il soit possible de prouver si la création et l'innovation sont réellement mieux portantes depuis la création d'une propriété intellectuelle. Symptomatique de la société actuelle, le Conseil de l'Union européenne a ainsi déclaré&nbsp;:
 
@@ -198,7 +198,7 @@ Peut-être faut-il le rappeler&nbsp;: «&nbsp;à tout vouloir protéger, on pass
 
 Ainsi, l'édiction continue de nouveaux droits exclusifs (1.1.1.2.a) affaiblit le système, de même l'utilisation qui en est faite (1.1.1.2.b), notamment les abus (1.1.1.2.c) et l'accaparement par l'industrie (1.1.1.2.d). Enfin, il faut ajouter les différents freins systémiques comme le dogme de la gestion collective (1.1.1.2.e).
 
-##### L'édiction incessante de nouveaux droits
+##### L'édiction incessante de nouveaux droits
 
 Devenu trop sensible aux pressions du marché, le législateur ne cesse de créer de nouveaux droits pour répondre aux industries qui le sollicitent. Ainsi, il y a eu plus de droits créés ces vingt dernières années que durant les deux siècles précédents&nbsp;; et plus de droits créés ces cinq dernières années que dans les vingt années qui précédent…
 
@@ -307,7 +307,7 @@ Dans tous les cas, il n'y a pas de rapport entre le coût du brevet et son méri
 
 ---------------------------------------------------
 
-##### L'industrialisation de la propriété littéraire et artistique
+##### L'industrialisation de la propriété littéraire et artistique
 
 Il a longtemps été considéré que les intérêts de l'industrie étaient les mêmes que ceux des artistes qu'elle défendait et représentait. Or, il s'avère que ce postulat est entièrement faux&nbsp;: l'artiste crée pour transcender son art comme le scientifique pour accroître la connaissance, alors que les industries créent uniquement pour l'argent qu'elles ont à y gagner[^partdeuxchapun24]&nbsp;! Dès lors, qui dit finalités différentes, dit encadrements différents&nbsp;: mettre en doute la pertinence du rôle de ces nouveaux intermédiaires aurait permis, selon nous, d'éviter les dérives actuelles du droit d'auteur. En effet, probablement par leur force économique et leur lobbying constant[@Brardetc2009], on assiste à une transformation du droit d'auteur en un droit pour l'industrie culturelle tout à fait détaché des enjeux du public et des auteurs. Or, si ces industries devaient figurer dans les dispositions relatives au droit d'auteur, ce serait uniquement pour en protéger les auteurs. Ainsi, dès lors qu'une norme est perçue comme inadéquate[@BrancoLopez2009] et illégitime, il est normal d'observer un désintérêt et un désengagement croissants qui se traduisent par une immobilisation de tout son pouvoir coercitif[^partdeuxchapun25]. Ainsi, il ne s'agit pas d'étendre les sanctions, mais au contraire de rendre au droit sa légitimité.
 
@@ -383,7 +383,7 @@ Pourtant, face aux problèmes d'une «&nbsp;capitalisation de la propriété int
 
 <!-- /NOTES -->
 
-### La structuration d'un équilibre différent sur la base du système existant
+### La structuration d'un équilibre différent sur la base du système existant
 
 Il est intéressant de constater que les outils juridiques existants, s'ils ne peuvent généralement être repris en l'état, permettent de construire d'autres équilibres sur le fondement de logiques nouvelles, ce qui leur permet d'être à la base d'un système qui leur soit adapté. Par ailleurs, l'essence contractuelle de ce courant lui confère une réactivité très forte face aux développements d'usages et, à fortiori, face aux évolutions législatives qu'il prend en compte au fur et à mesure de leur apparition (marques, brevets, mesures techniques de protection, [tivoïzation](http://fr.wikipedia.org/wiki/Tivoisation), promesse de non-agression, etc.). Tirant profit des expériences passées, le mouvement s'étend progressivement aux autres branches de la création (bases de données, manuels, documentation, inventions, microprocesseurs[^partdeuxchapun33], etc.) &ndash;&nbsp;à la condition qu'il y ait bien usage d'un droit exclusif (droit d'auteur, brevet, etc.), même si le dépôt et le coût lié à l'acquisition des titres de propriété industrielle commandent une réflexion plus pointue.
 
@@ -399,7 +399,7 @@ Ainsi, un nouveau système se dessine progressivement, laissant entrevoir de nou
 
 L'usage des droits de propriété littéraire et artistique est différent selon qu'on observe le droit d'auteur et les droits voisins (1.1.2.1.a), les mesures techniques (1.1.2.1.b) ou le droit _sui generis_ des bases de données (1.1.2.1.c).
 
-##### Droit d'auteur et droits voisins
+##### Droit d'auteur et droits voisins
 
 Certains droits sont de plus en plus partagés (les droits patrimoniaux, liés à l'exploitation de l'œuvre) alors que d'autres (les droits moraux, liés à la paternité des contributions de chacun) sont au contraire très fortement affirmés (conséquence logique de la place importante faite à l'individu au sein des communautés du Libre). Quant au domaine public, il répond à une volonté conjointe (auteur, public et fournisseurs de services) et prend une place centrale, tant pour déterminer les œuvres qui en font partie que pour en verser de nouvelles.
 
@@ -581,7 +581,7 @@ Précurseur en la matière (et gourou potache à ses heures perdues &ndash;&nbsp
 
 Parallèlement, un étudiant de l'université d'Helsinki nommé Linus Torvalds a proposé en 1991 un noyau de type Unix en se basant sur la boîte à outils fournie par le projet GNU. En plus d'avoir choisi d'ouvrir son code grâce à la licence GNU GPL, Linus Torvald opta pour un développement original coordonné sur le réseau et ouvert à tout contributeur. Ce développement, sur le mode plus tard appelé «&nbsp;du bazar&nbsp;» (en référence au célèbre essai _The Cathedral and the Bazaar_ d'Eric Steven Raymond[@Raymond2000]), assurant un succès croissant à son système d'exploitation, le propulsa sur le devant de la scène (notamment du projet GNU) au détriment d'autres noyaux. C'est le début du projet GNU/Linux.
 
-#### Les libertés du logiciel libre
+#### Les libertés du logiciel libre
 
 La FSF liste les [quatre libertés](http://www.fsf.org/licensing/essays/free-sw.html) fondamentales qui doivent être assurées à l'utilisateur final (généralement le détenteur d'une copie légitime du logiciel) afin que le logiciel soit qualifié de libre&nbsp;:
 
@@ -635,7 +635,7 @@ La Software Freedom Conservancy assure ainsi tout une série de services au prof
 
 Ancien salarié du SFLC en charge du projet de la SFC, Bradley Kuhn est devenu fin 2010 le directeur exécutif de la SFC lorsque celle-ci évolua en une structure autonome.
 
-### L'Open Source Initiative et l'école de l'_open source_
+### L'Open Source Initiative et l'école de l'_open source_
 
 Fondée en 1998 par Eric Steven Raymond et Bruce Perens, l'[Open Source Initiative](http://opensource.org) (OSI) compta dès ses origines Todd Anderson, Chris Peterson, John Maddog Hall, Larry Augustin, Sam Ockman. Elle est née d'une divergence de point de vue avec la FSF, afin de labelliser les licences réunissant les critères pragmatiques de la définition _open source_ (_Open Source Definition_). Structurellement, l'OSI[^partdeuxchapun45] est une _non profit public benefit corporation_ (sorte d'association à but non lucratif) californienne. Depuis 2011, l'OSI étend son action et s'ouvre notamment à l'adhésion de partenaires commerciaux.
 
@@ -689,7 +689,7 @@ Les licences _open source_ ne sont pas une, mais plusieurs&nbsp;: 70 sont certif
 
 D'autres sont probablement dans la même situation, mais il faut admettre que l'absence de consensus est plutôt rare. Aucune terminologie ne convient parfaitement, mais seront qualifiées (par souci de simplicité) de «&nbsp;commerciales&nbsp;» toutes les licences qui ne seront ni libres ni _open source_ et qui revêtent ainsi une dimension commerciale étrangère à ces licences a-commerciales (cet adjectif ne préjugeant nullement de l'activité commerciale qui peut accompagner l'usage de ces licences).
 
-#### Le processus de labellisation
+#### Le processus de labellisation
 
 Quelques principes fondamentaux gouvernent le processus de labellisation. Celui-ci doit permettre de&nbsp;:
 
@@ -726,7 +726,7 @@ Tout à fait utile, cette nouvelle mission que s'est attribuée l'OSI repose sur
 <!-- /NOTES -->
 
 
-### L'art libre ou le Libre sur les œuvres non logicielles
+### L'art libre ou le Libre sur les œuvres non logicielles
 
 Ce n'est pas un hasard si le documentaire _Nom de code&nbsp;: Linux_ se termine par l'affirmation&nbsp;: «&nbsp;Ce serait peut-être l'une des plus grandes opportunités manquées de notre époque si le logiciel libre ne libérait rien d'autre que du code&nbsp;»[^partdeuxchapun51].
 
@@ -794,7 +794,7 @@ Dans les deux situations, le contrôle de l'exploitation de l'œuvre n'est plus 
 
 ------------------------------------
 
-#### L'extension du Libre à la musique et à l'art en général
+#### L'extension du Libre à la musique et à l'art en général
 
 Les artistes se sont très rapidement approprié l'usage d'Internet pour diffuser leurs œuvres, les faire connaître et en créer de nouvelles grâce aux contributions venant de toute part. Aux origines, les deux principaux penseurs de ce mouvement sont sans conteste Ram Samudrala &ndash;&nbsp;notamment connu pour ses écrits sur la [Free Music Philosophy](http://www.ram.org/ramblings/philosophy/fmp/fmp_gnu_article.html)[^partdeuxchapun57] &ndash;&nbsp;et Antoine Moreau, initiateur du collectif Copyleft Attitude. 
 
@@ -892,7 +892,7 @@ Présentées comme une alternative à l'utilisation traditionnelle du droit d'au
 <!-- /NOTES -->
 
 
-#### L'association Creative Commons
+#### L'association Creative Commons
 
 [Historiquement](http://creativecommons.org/about/history), Lawrence Lessig, Hal Abelson et Eric Eldred fondèrent _Creative Commons_ en 2001, sous la forme d'une association à but non lucratif américaine. En 2008, l'association s'émancipa de son mentor, Lawrence Lessig (personnage de renom, aussi impliqué dans le logiciel libre[^partdeuxchapun66]), et accueilli de nouveaux entrants, comme Joi Ito en qualité de directeur et James Boyle[^partdeuxchapun67] comme président (voir l'organigramme [sur le site de Creative Commons](http://mirrors.creativecommons.org/cc-org-chart.png)) &ndash;&nbsp;faisant entrer l'initiative du monde académique dans le monde industriel[^partdeuxchapun68]…
 
@@ -928,7 +928,7 @@ Projet indépendant incubé par Creative Commons, iCommons est une organisation 
 
 ----------------------------------------
 
-#### Les licences Creative Commons
+#### Les licences Creative Commons
 
 Surfant sur la vague naissante du web collaboratif, la première version des licences proposées en 2002 connut un énorme succès. Pour favoriser leur utilisation et leur promotion, des chapitres nationaux (structures nationales [homologuées](http://creativecommons.org/worldwide) &ndash;&nbsp;généralement des centres de recherche) eurent la mission de transposer et de diffuser des versions nationales des licences (jusqu'alors inspirées du droit américain). C'est le [CERSA](http://cersa.cnrs.fr/) (Centre d'Études et de Recherches de Sciences Administratives) qui prit cette initiative en main en France et publia les licences françaises fin 2004 (alors dans leur seconde version) &ndash;&nbsp;le nombre de licences françaises était dès le début réduit à 6 licences en raison de l'impossibilité de retirer la clause By qui assurait la paternité à l'auteur de l'œuvre[^partdeuxchapun70]. 
 
@@ -1013,7 +1013,7 @@ C'est le même raisonnement qui a inspiré les commentateurs de la GFDL, dont le
 
 --------------------------------
 
-### L'extension du libre au-delà de la création
+### L'extension du libre au-delà de la création
 
 Au fur et à mesure que la philosophie du Libre se répand, d'autres secteurs s'orientent dans une direction similaire (influencés par l'exemple, ou tout simplement pour répondre aux impératifs du monde actuel).
 
@@ -1021,7 +1021,7 @@ Les aspects juridiques sont eux aussi des paramètres fondamentaux puisque chaqu
 
 Seront analysés ci-après quelques autres mouvements, encore en construction&nbsp;: l'_open access_ (1.2.5.1), l'_open data_ (1.2.5.2), les polices libres (1.2.5.3), les formats ouverts (1.2.5.4), l'_open cloud_ (1.2.5.5), l'_open hardware_ (1.2.5.6) et  l'_open web_ (1.2.5.7).
 
-#### _Open access_ ou archives ouvertes
+#### _Open access_ ou archives ouvertes
 
 Les bases du mouvement de l'_open access_[^partdeuxchapun77] dépassent la simple diffusion sous licences libres (1.2.5.1.a) et reposent notamment sur une gestion juridique des contributions menées dans ce cadre (1.2.5.1.b).
 
@@ -1031,7 +1031,7 @@ Les bases du mouvement de l'_open access_[^partdeuxchapun77] dépassent la simpl
 
 <!-- /NOTES -->
 
-##### Les bases du mouvement de l'_open access_
+##### Les bases du mouvement de l'_open access_
 
 Tirant profit des richesses du numérique et d'Internet, l'apparition du mouvement de l'_open access_ est aujourd'hui perçu comme l'évolution logique des pratiques scientifiques[^partdeuxchapun78] à l'ère du numérique&nbsp;: favorisant les échanges, évitant de dupliquer des recherches et des erreurs, offrant une vision plus large de l'état de la science, etc. Une pratique d'autant plus appréciée en raison des abus du système de publication scientifique antérieur (avec des auteurs entièrement dépossédés de leurs droits et des prix d'abonnement prohibitifs, au point de rendre ces revues inaccessibles à certaines bibliothèques).
 
@@ -1201,7 +1201,7 @@ L'[OpenStreetmap Foundation](http://www.osmfoundation.org/wiki/Main_Page) est un
 
 ---------------------------------------
 
-##### La dimension juridique du mouvement
+##### La dimension juridique du mouvement
 
 La notion de donnée n'est pas une qualification juridique, la donnée étant généralement plus associée à une information (soumise à aucun monopole) qu'à une œuvre ou une autre création soumise à un quelconque droit de propriété intellectuelle. Néanmoins, certaines sociétés n'hésitent pas à opérer un distinguo relatif à la protection des données qu'elles génèrent en fonction des efforts financiers qu'elles ont pu fournir[@Moreno1999]&nbsp;: les _données brutes_ (primaires&nbsp;: inexploitables directement par l'utilisateur)&nbsp;; les _données corrigées_ (ou traitées /&nbsp;exploitables&nbsp;: elles seraient appropriables)&nbsp;; et les _données élaborées_ (ou analysées ou dérivées &ndash;&nbsp;des données extérieures sont ajoutées&nbsp;: elles sont appropriables). Sans préjuger de l'originalité de leur apport, notons que ce sera au juge qu'il reviendra, au cas par cas, de trancher la question au regard des critères du droit d'auteur.
 
@@ -1254,7 +1254,7 @@ Red Hat a ainsi publié les polices de caractères _Liberation font_ (en version
 
 Pour des raisons différentes, mais convergentes, l'association SIL International est aussi à l'origine de nombreuses polices libres (publiées pour répondre à ses objectifs d'étude et de développements des langages).
 
-##### La dimension juridique du mouvement
+##### La dimension juridique du mouvement
 
 La protection des polices de caractères par le droit d'auteur n'est pas unanimement reconnue dans le monde&nbsp;: 
 
@@ -1289,7 +1289,7 @@ __Pour aller plus loin…__
 
 -------------------------------
 
-#### Les formats ouverts
+#### Les formats ouverts
 
 On peut aussi parler de spécifications ouvertes au lieu de format ouvert. Les enjeux (1.2.5.4.a) sont d'autant plus importants à l'ère numérique, au sein d'une société basée sur les échanges et la diffusion de l'information, et donc intimement soumise à l'établissement de standards (ou spécifications) ouvert(e)s. Les solutions sont néanmoins peu juridiques (1.2.5.4.b).
 
@@ -1327,7 +1327,7 @@ __Pour aller plus loin…__
 
 -------------------------------
 
-##### La dimension juridique du mouvement
+##### La dimension juridique du mouvement
 
 En termes juridiques, les enjeux ne touchent pas vraiment la propriété intellectuelle&nbsp;: on parlera plus de normes, voire de référentiels nationaux, communautaires ou internationaux, relatifs à l'emploi de certains formats (généralement liés aux problématiques d'interopérabilité). Suite aux différends avec Microsoft, la Commission européenne avait exigé la mise en place de licences RAND (_reasonable and non-discriminatory_) &ndash;&nbsp;celles-ci restent néanmoins incompatibles avec les fondamentaux du logiciel libre, car elles mettent les standards à la discrétion des éditeurs propriétaires. 
 
@@ -1350,7 +1350,7 @@ __Pour aller plus loin…__
 
 ----------------------------------
 
-#### Open cloud
+#### Open cloud
 
 Les enjeux du _cloud_ (1.2.5.5.a), s'ils sont cruciaux au regard de l'évolution des services et des produits, ne sont que faiblement juridiques (1.2.5.5.b).
 
@@ -1404,7 +1404,7 @@ On se reportera aussi&nbsp;:
 
 -------------------------------------
 
-##### La dimension juridique du mouvement
+##### La dimension juridique du mouvement
 
 La dimension juridique du mouvement est en réalité essentiellement traitée par le biais des licences libres classiques&nbsp;: telle la GNU Affero GPL v.&nbsp;3 qui impose que les modifications du logiciel utilisé dans un service en ligne soient disponibles aux utilisateurs. La généralisation de l'usage de certains logiciels libres facilitera le transfert des services grâce à un ensemble de paramètres et données qui pourront être repris chez un concurrent ou hébergé par l'utilisateur lui-même.
 
@@ -1416,11 +1416,11 @@ Toutes les autres facettes (respect de la confidentialité, de la vie privée, e
 
 <!-- /NOTES -->
 
-#### L'embarqué et l'_open hardware_
+#### L'embarqué et l'_open hardware_
 
 Les enjeux de l'embarqué (1.2.5.6.a) sont très liés aux modèles des logiciels libres[@Blanc2011], mais ils s'en distinguent notamment par les réponses juridiques apportées (1.2.5.6.b).
 
-##### Les enjeux
+##### Les enjeux
 
 Qu'elles soient communautaires (telle l'imprimante 3D [RepRap](http://reprap.org)) ou industrielles (comme [Arduino](http://www.arduino.cc)), la multiplication d'initiatives en la matière démontre le fort intérêt que présente l'_open source_ pour les constructeurs de matériels&nbsp;: tant pour ce qui concerne les logiciels embarqués dans leurs produits (leur valeur ajoutée est principalement matérielle) que dans le processus de création et d'exploitation du matériel sous licence libre. On annonçait ainsi en 2010 plus de 300 projets de matériel libre (avec un chiffre d'affaires de 1 à 10 millions de dollars[^partdeuxchapun109]) partagés entre industriels et communautés[^partdeuxchapun110].
 
@@ -1485,7 +1485,7 @@ Projet complémentaire ayant récemment été annoncé, l'[Open Networking Found
 
 La fondation OpenWeb a publié plusieurs licences qui s'étendent tant au droit des brevets qu'au droit d'auteur. L'Open Web Final Specification Agreement (OWFa 1.0) est ainsi utilisé par le [projet Open Compute](http://opencompute.org), projet lancé par Facebook afin de créer une communauté ouverte destinée à optimiser la création de serveurs et datacenters. Elle contient une licence en matière de droit d'auteur et une promesse de non-agression en matière de brevets.
 
-#### etc.
+#### etc.
 
   La liste serait trop longue s'il fallait détailler toutes les autres extensions de ce phénomène, tout du moins peut-on en lister quelques-unes&nbsp;:
 
@@ -1516,7 +1516,7 @@ Néanmoins, le marché comme le politique ne peuvent que suivre le chemin tracé
 
 Différents types d'impulsions (1.3.1.1) caractérisent les actions publiques en faveur de l'_open source_ dans le monde (1.3.1.2).
 
-#### Les types d'impulsion
+#### Les types d'impulsion
 
 La dimension politique du logiciel libre n'a pas échappé aux administrations ou collectivités qui peuvent ainsi justifier auprès de leurs contribuables d'une action qui participe à la constitution d'un fonds commun et qui les rend «&nbsp;plus libres&nbsp;» à l'ère du numérique.
 
@@ -1573,7 +1573,7 @@ __Pour aller plus loin…__
 
 ---------------------------------
 
-##### L'édition de logiciels par le secteur public
+##### L'édition de logiciels par le secteur public
 
 Toujours par le biais de marché public, certaines collectivités et administrations décident de  financer le développement de logiciels libres qu'elles maintiennent &ndash;&nbsp;quitte à ce qu'elles le partagent ensuite avec d'autres acteurs du secteur public.
 
@@ -1617,7 +1617,7 @@ En terme de promotion du Libre et de l'_open source_, on peut citer l'événemen
 
 Enfin, et même si la démarche semble aujourd'hui beaucoup moins active, il faut reconnaître le travail réalisé par la Direction générale de la modernisation de l'état [DGME](http://www.modernisation.gouv.fr/) (qui avait notamment publié le «&nbsp;Guide pratique d'usage des logiciels libres dans les administrations&nbsp;» rédigé par Thierry Aimé, cité précédemment).
 
-##### En Europe
+##### En Europe
 
 Au-delà de la France, il est possible de trouver quelques initiatives européennes en faveur du logiciel libre, même si force est de constater que celles-ci n'ont jamais été menées jusqu'à leur terme (des pays tels que les Pays-Bas, l'Italie ou le Royaume-Uni ont communiqué à plusieurs reprises sur l'importance de l'_open source_). Il semblerait qu'il s'agisse néanmoins de démarches politiques difficiles à affirmer à l'échelle d'un pays &ndash;&nbsp;raison pour laquelle, dans les pays composés de régions fortes et relativement autonomes, l'édiction de loi et les prises de position franches en faveur du logiciel libre sont faites à l'échelle de ces dernières (telle la Région du Piémont en Italie ou l'état du Kerala en Inde)[^partdeuxchapun122]. Le CSI Piémont, qui mutualise à grande échelle, explique d'ailleurs promouvoir (et accompagner) l'utilisation de logiciels libres par pragmatisme.
 
@@ -1640,7 +1640,7 @@ Par ailleurs, l'Europe &ndash;&nbsp;qui voit dans l'_open source_ un développem
 <!-- /NOTES -->
 
 
-##### Dans le reste du monde
+##### Dans le reste du monde
 
 Dans le reste du monde, les politiques sont diverses et assez complexes. Le Pérou et l'Extremadure sont les précurseurs, et l'Australie avait publié dès 2005 un guide intitulé _A guide to Open Source Software for Australian Government Agencie_.   Aux États-Unis, l'_open source_ est aujourd'hui perçu comme la meilleure méthode de développement de logiciels (moins chers, mieux testés et donc sécurisés, interopérables, etc.). On retrouve ce constat du côté du gouvernement, mais celui-ci est surtout très actif dans la mise en place d'une politique de «&nbsp;transparence&nbsp;» et d'&nbsp;«&nbsp;ouverture&nbsp;» qui bénéficie, directement ou indirectement aux logiciels libres. Le ministère de la défense américaine (DoD) est lui aussi un fervent partisan du logiciel libre[@dodsoft2011] et  possède sa propre forge publique ([forge.mil](http://forge.mil)).
 
@@ -1688,7 +1688,7 @@ __Pour aller plus loin…__
 
 -----------------------------------------
 
-### L'impulsion publique en faveur de l'_open data_
+### L'impulsion publique en faveur de l'_open data_
 
 Le mouvement de l'_open data_ est arrivé tardivement sur le devant de la scène politique, mais son adoption fut alors fulgurante et vue comme l'achèvement d'une politique de transparence initiée dans les années 1980. Ainsi, la démarche étant encore jeune et en pleine adoption (1.3.3.1), il faut garder un regard critique et replacer la situation française (1.3.3.3) à l'échelle des pays (1.3.3.2) et à l'échelle européenne (1.3.3.4). Enfin, les principes de l'_open data_ s'étendent au-delà, notamment dans ce qu'il est d'usage d'appeler l'_Open Government_ (1.3.3.5).
 
