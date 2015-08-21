@@ -1,6 +1,7 @@
 
 # Glossaire
-                    
+
+<!-- attention la mise en page correspond à la syntaxe pandoc de liste descriptive -->
 
 Ce glossaire est basé sur le glossaire trilingue réalisée par Fanny Mourguet et Griselda Jung de la société [ATIT](http://www.atit.fr/) pour l'association Veni, Vidi, Libri (sous double licence GNU GFDL 1.2 et LAL 1.3)
 
