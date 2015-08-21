@@ -49,7 +49,7 @@ L'existence d'une œuvre confère des prérogatives particulières à son auteur
 
 
 
-### La qualification d'œuvre
+### La qualification d'œuvre
 
 L'objet du droit d'auteur est l'_œuvre_, celle-ci étant entendue comme une _création originale_. Il suffit donc qu'une idée soit 1) _exprimée_ et 2) _originale_ (empreinte de la personnalité de son auteur) pour que cette forme soit protégée.
 
@@ -253,7 +253,7 @@ Enfin, le CPI encadre la conclusion de cinq contrats (Art. L.132-1 à Art. L.132
 
 Les libertés du public sont assurées par un mécanisme d'exceptions, un principe d'épuisement, une série de licences légales et la consécration d'un domaine public.
 
-###### Les exceptions au monopole du droit d'auteur
+###### Les exceptions au monopole du droit d'auteur
 
 Quelques exceptions (Art. L122-5 CPI) permettent de considérer des usages comme étant en dehors du monopole de l'auteur &ndash;&nbsp;à la condition néanmoins qu'ils ne portent pas atteinte à l'exploitation normale de l'œuvre ni ne causent un préjudice injustifié aux intérêts légitimes de l'auteur[^partunchapun24].
 
@@ -373,11 +373,11 @@ Il semble préférable d'encourager le remplacement de ces renonciations par l'u
 
 ----------------------------------
 
-#### L'équilibre du droit d'auteur pour les cas particuliers
+#### L'équilibre du droit d'auteur pour les cas particuliers
 
 Même si elles reposent toutes sur le droit d'auteur classique tel qu'il vient d'être exposé, plusieurs situations emportent des conséquences particulières&nbsp;: le cas de l'œuvre logicielle (1.1.2.2.a), celui de l'œuvre d'un agent public (1.1.2.2.b) ou d'un journaliste (1.1.2.2.c), et celui des œuvres audiovisuelles et radiophoniques (1.1.2.2.d).
 
-##### L'œuvre logicielle
+##### L'œuvre logicielle
 
 En matière de logiciels, le législateur s'est initialement interrogé sur la pertinence d'une protection légale (face à l'usage du secret industriel). Certains y voyant une forme d'expression de son auteur, la loi du 3 juillet 1985 a tranché en ajoutant expressément le logiciel comme une _œuvre_ couverte par le monopole d'exploitation de son auteur[^partunchapun31]. Le logiciel reste néanmoins une œuvre particulière puisque tant le monopole de l'auteur que les libertés des utilisateurs diffèrent.
 
@@ -422,7 +422,7 @@ Les mesures techniques utilisées sur un logiciel bénéficient d'une protection
 
 -----------------------------------------
 
-##### L'œuvre d'un agent public
+##### L'œuvre d'un agent public
 
 Le droit est bien souvent la hiérarchisation de diverses normes et il a ici été considéré que la mission de service public (à laquelle contribue le fonctionnaire par son activité) ne pouvait souffrir de la reconnaissance de tels monopoles personnels.
 
@@ -456,29 +456,29 @@ Il s'agissait, pour les artistes-interprètes, d'acquérir le contrôle de l'uti
 
 Malgré la diversité des qualifications (1.2.1), les droits répondent à un équilibre semblable (1.2.2).
 
-### Les différentes qualifications des droits voisins
+### Les différentes qualifications des droits voisins
 
 Trois types de créations donnent accès aux droits voisins&nbsp;: l'interprétation (1.2.1.1), les phonogrammes ou vidéogrammes (1.2.1.2), et les programmes (1.2.1.3).
 
-#### L'interprétation des artistes-interprètes
+#### L'interprétation des artistes-interprètes
 
 L'artiste-interprète est celui qui interprète, qui exprime une œuvre littéraire ou artistique, un numéro de variété, de cirque ou de marionnettes. Généralement artiste et salarié, il bénéficie d'un statut hybride faisant appel tant au Code du travail qu'au Code de la propriété intellectuelle.
 
 On le distingue des artistes de compléments («&nbsp;les figurants&nbsp;», personnes aisément remplaçables sans que cela n'influe sur la création (Art. L212-1 CPI) et des techniciens qui l'accompagnent. Ceux-ci sont généralement rémunérés pour leur prestation sous forme de salaire ou assimilable.
 
-#### Les phonogrammes ou vidéogrammes des producteurs
+#### Les phonogrammes ou vidéogrammes des producteurs
 
 Le producteur de phonogramme ou de vidéogramme est la personne, physique ou morale, qui a l'initiative et la responsabilité de la première fixation «&nbsp;d'une séquence de son&nbsp;» (Art. L213-1 CPI) ou «&nbsp;d'une séquence d'images sonorisée ou non&nbsp;» (Art. L215-1 CPI) et en assume l'intégralité des risques financiers. Il se distingue ainsi du fabricant de support (qui ne détient aucun droit exclusif). 
 
-#### Les programmes des entreprises de communication audiovisuelle
+#### Les programmes des entreprises de communication audiovisuelle
 
 Les entreprises de communication audiovisuelles sont les _organismes qui exploitent un service de communication audiovisuelle_ (Au sens de la Loi 86-1067 du 30 septembre 1986 relative à la liberté de communication), quel que soit le régime applicable à ce service, ou, pour faire court&nbsp;: les «&nbsp;chaînes&nbsp;» de télévision ou radio. Elles disposent d'un droit sur leurs programmes.
 
-### L'équilibre commun aux droits voisins
+### L'équilibre commun aux droits voisins
 
 L'équilibre des droits voisins met en balance le monopole des titulaires de droits voisins (1.2.2.1) et les libertés de leur public (1.2.2.2).
 
-#### Le monopole des titulaires de droits voisins
+#### Le monopole des titulaires de droits voisins
 
 Les prérogatives issues des différents droits voisins diffèrent substanciellement&nbsp;:
 
@@ -496,11 +496,11 @@ Concernant la durée de protection, elle était, jusqu'au 12 septembre 2011, de 
 
 Enfin, la signature du contrat conclu entre un artiste-interprète et un producteur pour la réalisation d'une œuvre audiovisuelle vaut autorisation de fixer, reproduire et communiquer au public la prestation de l'artiste-interprète (le producteur sera généralement _in fine_ le seul titulaire de droits). La directive de 2011 insère quelques mesures d'accompagnement en faveur des artistes-interprètes (seulement pour les vingt années supplémentaires)&nbsp;: la création de clauses d'«&nbsp;exploitation à peine de perte de droits&nbsp;» (_use it or lose it_) qui, à l'instar du contrat d'édition, imposent aux producteurs de commercialiser l'enregistrement et un fonds dans lequel les maisons de disques devront verser 20% des revenus générés pendant la période de protection additionnelle aux musiciens de studio.
 
-#### Les limitations apportées au monopole
+#### Les limitations apportées au monopole
 
 Complémentaires, les droits voisins souffrent de leur rapport hiérarchique avec le droit d'auteur (1.2.2.2.a) et d'une licence légale supplémentaire (1.2.2.2.b) qui les transforment fréquemment en de simples droits à rémunération.
 
-##### Rapport avec le droit d'auteur
+##### Rapport avec le droit d'auteur
 
 Par principe, les droits voisins ne peuvent être interprétés de manière à porter atteinte au monopole de l'auteur (Art. L211-1 CPI). Ensuite, les droits voisins sont soumis aux mêmes limitations que le droit d'auteur&nbsp;:
 
@@ -508,7 +508,7 @@ Par principe, les droits voisins ne peuvent être interprétés de manière à p
    - toute vente d'un bien sur lequel porte un droit voisin au sein de la Communauté européenne «&nbsp;épuise&nbsp;» ces droits au sein de cette communauté (Art. L211-6 CPI);
    - l'artiste interprète ne peut limiter la retransmission (simultanée intégrale, sans changement et sur le territoire national) par satellite et par câble en cas de télédiffusion de son interprétation et la reproduction ou communication publique de sa prestation si elle est accessoire à un événement constituant le sujet principal d'une séquence d'une œuvre ou d'un document audiovisuel (Art. L212-10 CPI).
 
-##### Licence légale supplémentaire : la rémunération équitable
+##### Licence légale supplémentaire : la rémunération équitable
 
 Lorsqu'un phonogramme a été publié à des fins de commerce pour la première fois dans un État membre de l'Union européenne, l'artiste-interprète et le producteur ne peuvent s'opposer&nbsp;:
 
@@ -517,17 +517,17 @@ Lorsqu'un phonogramme a été publié à des fins de commerce pour la première 
 
 En contrepartie, ceux-ci perçoivent une rémunération dite _équitable_ par le biais d'une société de gestion collective dédiée (la Société pour la perception de la rémunération équitable) calculée sous la forme d'une rémunération proportionnelle aux recettes. Elle est versée à parts égales entre les interprètes et les producteurs de phonogrammes.
 
-## Les mesures techniques de protection et d'information
+## Les mesures techniques de protection et d'information
 
 Innovations issues de l'accord signé à l'OMPI sur les Aspects des droits de propriété intellectuelle qui touchent au commerce ([ADPIC](http://fr.wikipedia.org/wiki/ADPIC)) de 1996 et de la Directive européenne sur l'harmonisation de certains aspects du droit d'auteur et des droits voisins dans la société de l'information ([EUCD](http://fr.wikipedia.org/wiki/EUCD)) de 2001, les mesures techniques de protection (MTP) et d'information (MTI) se voient dorénavant protégées dans leur utilisation sur une œuvre lorsqu'elles garantissent l'effectivité des autorisations de droits de propriété littéraire et artistique (droit d'auteur et droits voisins)[@Chantepie2003].
 
 Elles ne s'appliquent pas en matière de logiciels ou de bases de données qui bénéficient de protections spécifiques. La mesure technique doit remplir certains critères (1.3.1) afin de faire bénéficier d'un équilibre qui lui est propre (1.3.2).
 
-### Qualification des mesures techniques de protection et d'information
+### Qualification des mesures techniques de protection et d'information
 
 Seules donnent droit à cette protection les mesures techniques (1.3.1.1) dites efficaces (1.3.1.2).
 
-#### Une mesure technique
+#### Une mesure technique
 
 Selon l'article 6.3 de la directive du 22 mai 2001, une mesure technique peut être
 
@@ -558,7 +558,7 @@ La loi HADOPI est venue _substituer_ la Haute Autorité pour la Diffusion des œ
 
 
 
-#### Une mesure technique efficace
+#### Une mesure technique efficace
 
 Seules les mesures techniques «&nbsp;efficaces&nbsp;» peuvent prétendre au bénéfice de la protection. Le critère est destiné à écarter les mesures techniques triviales qui auraient pour seul objectif l'acquisition d'un nouveau droit exclusif.
 
@@ -579,7 +579,7 @@ thèse (source, et traduction disponibles sur [turre.com](http://www.turre.com/b
 
 L'équilibre des mesures techniques de protection s'apprécie au regard des prérogatives offertes par la protection (1.3.2.1) et les libertés conservées par le public (1.3.2.2).
 
-#### Les prérogatives sous forme de sanction des atteintes
+#### Les prérogatives sous forme de sanction des atteintes
 
 Protection destinée à certaines industries (celles du disque en première ligne), les demandeurs de l'action sont multiples et disposent de prérogatives différentes. Deux types d'atteintes peuvent être sanctionnées&nbsp;:
 
@@ -621,7 +621,7 @@ Enfin, il semble évident qu'un utilisateur légitime dispose d'un droit d'user 
 
 
 
-### Les bases de données donnant accès à un droit  _sui generis_
+### Les bases de données donnant accès à un droit  _sui generis_
 
 Au surplus de la protection par le droit d'auteur dont bénéficie une base de données qui traduirait une forme originale, un droit _sui generis_ leur a été consacré par la directive du 11 mars 1996 afin de protéger automatiquement les bases dont la constitution aurait demandé un investissement important.
 
@@ -647,11 +647,11 @@ Enfin, en cas de litige, c'est au producteur de prouver l'investissement[^partun
 <!-- /NOTES -->
 
 
-#### L'équilibre du droit _sui generis_ des bases de données
+#### L'équilibre du droit _sui generis_ des bases de données
 
 L'équilibre du droit _sui generis_ s'apprécie en comparant le monopole du producteur de la base de données (1.4.2.1) et les libertés des utilisateurs (1.4.2.2).
 
-##### Le monopole du producteur de la base de données
+##### Le monopole du producteur de la base de données
 
 Le droit _sui generis_ des bases de données (Art. L342-1 et L342-2 CPI) permet aux producteurs d'interdire&nbsp;:
 
