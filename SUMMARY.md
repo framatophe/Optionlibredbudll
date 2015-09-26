@@ -3,7 +3,7 @@
 * [lisezmoi](README.md)
 * [Abréviations et acronymes](acronymes.md)
 * [Préface](preface.md)
-* Nouvelle version
+* [Nouvelle version](nouvelle_version.md)
 * [Introduction générale](introduction.md)
 * [Introduction Part1](introPart1.md)
 * [Part1 chap1](part1_chap1.md)
